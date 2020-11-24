@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+My name is Maho Takahashi (高橋 麻帆), and I am a PhD student in Linguistics at the **University of California, San Diego**. 
 
-You can use the [editor on GitHub](https://github.com/matakahas/matakahas.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a member of the [Experimental Syntax Lab](http://grammar.ucsd.edu/syntaxlab/) directed by Dr. Grant Goodall and the [Language and Development Lab](http://www.ladlab.com/) directed by Dr. David Barner.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research interest lies in quantifying our intuition about grammatical and semantic knowlegde through experimentation, and exploring the interaction of cognitive capacities and linguistic competence in language acquisition and making grammaticality judgments.
 
-### Markdown
+I am a former member of the [Language Development and Processing Lab](https://depts.washington.edu/ldplab/) directed by the late Akira Omaki at the **University of Washington**.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Previously I received a master's degree in Linguistics from the **University of Hawaiʻi at Mānoa**, and a bachelor's degree in International Liberal Studies from **Waseda University** (Tokyo, Japan).
 
-```markdown
-Syntax highlighted code block
+Email: mtakahas@ucsd.edu
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/matakahas/matakahas.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[LinkedIn](https://www.linkedin.com/in/maho-takahashi/)/[GitHub](https://github.com/matakahas)/OSF.io
