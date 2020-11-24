@@ -1,13 +1,1 @@
-My name is Maho Takahashi (高橋 麻帆), and I am a PhD student in Linguistics at the **University of California, San Diego**. 
-
-I am a member of the [Experimental Syntax Lab](http://grammar.ucsd.edu/syntaxlab/) directed by Dr. Grant Goodall and the [Language and Development Lab](http://www.ladlab.com/) directed by Dr. David Barner.
-
-My research interest lies in quantifying our intuition about grammatical and semantic knowlegde through experimentation, and exploring the interaction of cognitive capacities and linguistic competence in language acquisition and making grammaticality judgments.
-
-I am a former member of the [Language Development and Processing Lab](https://depts.washington.edu/ldplab/) directed by the late Akira Omaki at the **University of Washington**.
-
-Previously I received a master's degree in Linguistics from the **University of Hawaiʻi at Mānoa**, and a bachelor's degree in International Liberal Studies from **Waseda University** (Tokyo, Japan).
-
-Email: mtakahas@ucsd.edu
-
-[LinkedIn](https://www.linkedin.com/in/maho-takahashi/)/[GitHub](https://github.com/matakahas)/OSF.io
+This is my website.
