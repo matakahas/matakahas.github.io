@@ -1,6 +1,6 @@
 ## Ongoing projects:
 
-*	Syntactic islandhood of double-gap relative clauses in Japanese using a formal acceptability judgment [test](https://matakahas.github.io/projects/data/test.html)
+*	Syntactic islandhood of double-gap relative clauses in Japanese using a formal acceptability judgment [test](test.html)
 *	English-speaking children's interpretation of plural definite descriptions
 *	Presuppositional component of 'only' and contextual manipulation to affect its interpretation 
 
