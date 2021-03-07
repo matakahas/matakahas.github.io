@@ -4,7 +4,6 @@
     - I ran a couple of factorial-design acceptability experiments in order to examine whether a rightward head raising out of a relative clause in Japanese, which exemplifies a gap-filler dependency, is a case of island violation.
 *	Presuppositional component of 'only' and contextual manipulation to affect its interpretation
     - I am conducting a series of experiments to find out what is presupposed by the word 'only'; is it the prejacent of the sentence (e.g., "John ate only bananas" presupposes that "John ate (at least) bananas"), or something else?
-    - Data analysis forthcoming 
 *	English-speaking children's interpretation of plural definite descriptions (paused due to the inability to run experiments on-site)
 
 ## Past projects:
