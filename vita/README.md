@@ -1,1 +1,1 @@
-You can find my current CV [here](cv_0525.pdf) (last updated: May 2021).
+You can find my current CV [here](cv_0714.pdf) (last updated: July 2021).
