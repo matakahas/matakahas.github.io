@@ -36,7 +36,7 @@
 </details>
 
 {::options parse_block_html="false" /}
-
+<br />
 ## Past projects:
 *	English-speaking children's acquisition of passive structures (write-up available [here](http://www.lingref.com/bucld/42/BUCLD42-16.pdf))
 *	Japanese-speaking children's acquisition of the syntactic constraints on floating quantifiers (write-up available [here](https://scholarspace.manoa.hawaii.edu/bitstream/10125/58832/RN55-LLL2017.pdf))
