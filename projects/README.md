@@ -2,7 +2,7 @@
 
 {::options parse_block_html="true" /}
 
-*	Island sensitivity of gap-filler dependencies as exemplified by double-gap relative clauses (RCs) in Japanese \
+#### Island sensitivity of gap-filler dependencies as exemplified by double-gap relative clauses (RCs) in Japanese
 <span style="color:blue">*\#experimental syntax*</span>&nbsp;<span style="color:green">*\#Japanese*</span> \
 &nbsp;&nbsp;<img src="double_gap_exp1.png" alt="double_gap_exp1" width="300"/>
 <details>
@@ -15,7 +15,7 @@
 
 {::options parse_block_html="true" /}
 
-*	Presuppositional component of 'only' and the effect of experimental manipulations on its interpretation \
+#### Presuppositional component of 'only' and the effect of experimental manipulations on its interpretation
 <span style="color:purple">*\#semantics\&pragmatics*</span>&nbsp;<span style="color:navy">*\#English*</span> \
 &nbsp;&nbsp;<img src="only_presupposition.png" alt="only_presupposition" width="330"/>
 <details>
@@ -28,7 +28,7 @@
 
 {::options parse_block_html="true" /}
 
-* Scalar implicature in online experiments \
+#### Scalar implicature in online experiments
 <span style="color:purple">*\#semantics\&pragmatics*</span>&nbsp;<span style="color:navy">*\#English*</span>
 <details>
   
