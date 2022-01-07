@@ -31,7 +31,6 @@
 ---
 
 {::options parse_block_html="true" /}
-<br />
 #### Scalar implicature in online experiments
 <!---<span style="color:purple">*\#semantics&pragmatics*</span>&nbsp;<span style="color:navy">*\#English*</span>--->
 <details>
