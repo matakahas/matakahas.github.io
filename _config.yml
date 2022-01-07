@@ -1,13 +1,6 @@
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 author:
   name: Maho Takahashi
   email: mtakahas@ucsd.edu
 title: Maho Takahashi
 description: Linguistics PhD Student at UC San Diego
-
-minima:
-  social_links:
-    linkedin: maho-takahashi
-    github:  matakahas
-
-theme: minima
