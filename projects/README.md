@@ -10,9 +10,11 @@
   * I ran a couple of factorial-design acceptability experiments in order to examine whether the dependency where a gap precedes its filler would exhibit the same degree of island effects as filler-gap dependencies, focusing on the case in Japanese where relativization seems to have taken place out of another RC.
   * Presentation slides for a talk on this project can be accessed [here](CAMP_Takahashi.pdf)
 </details>
+
 {::options parse_block_html="false" /}
 
 {::options parse_block_html="true" /}
+<br />
 #### Presuppositional component of 'only' and the effect of experimental manipulations on its interpretation
 <span style="color:purple">*\#semantics\&pragmatics*</span>&nbsp;<span style="color:navy">*\#English*</span> \
 &nbsp;&nbsp;<img src="only_presupposition.png" alt="only_presupposition" width="330"/>
@@ -25,7 +27,7 @@
 {::options parse_block_html="false" /}
 
 {::options parse_block_html="true" /}
-
+<br />
 #### Scalar implicature in online experiments
 <span style="color:purple">*\#semantics\&pragmatics*</span>&nbsp;<span style="color:navy">*\#English*</span>
 <details>
