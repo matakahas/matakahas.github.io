@@ -16,7 +16,7 @@
 {::options parse_block_html="true" /}
 <br />
 #### Presuppositional component of 'only' and the effect of experimental manipulations on its interpretation
-<span style="color:purple">*\#semantics\&pragmatics*</span>&nbsp;<span style="color:navy">*\#English*</span> \
+<span style="color:purple">*\#semantics&pragmatics*</span>&nbsp;<span style="color:navy">*\#English*</span> \
 &nbsp;&nbsp;<img src="only_presupposition.png" alt="only_presupposition" width="330"/>
 <details>
   
@@ -29,7 +29,7 @@
 {::options parse_block_html="true" /}
 <br />
 #### Scalar implicature in online experiments
-<span style="color:purple">*\#semantics\&pragmatics*</span>&nbsp;<span style="color:navy">*\#English*</span>
+<span style="color:purple">*\#semantics&pragmatics*</span>&nbsp;<span style="color:navy">*\#English*</span>
 <details>
   
   * I am also conducting some experiments to discover the effects of modality, as well as the presence of an in-person experimenter, on the way participants engage in pragmatic reasoning, with a focus on the well-known "some-but-not-all" implicature.
