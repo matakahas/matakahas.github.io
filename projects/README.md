@@ -13,8 +13,10 @@
 
 {::options parse_block_html="false" /}
 
+---
+
 {::options parse_block_html="true" /}
-<br />
+
 #### Presuppositional component of 'only' and the effect of experimental manipulations on its interpretation
 <!---<span style="color:purple">*\#semantics&pragmatics*</span>&nbsp;<span style="color:navy">*\#English*</span> \--->
 &nbsp;&nbsp;<img src="only_presupposition.png" alt="only_presupposition" width="330"/>
@@ -25,6 +27,8 @@
 </details>
 
 {::options parse_block_html="false" /}
+
+---
 
 {::options parse_block_html="true" /}
 <br />
