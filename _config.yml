@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 author:
   name: Maho Takahashi
   email: mtakahas@ucsd.edu
@@ -9,3 +9,5 @@ minima:
   social_links:
     linkedin: maho-takahashi
     github:  matakahas
+
+theme: minima
