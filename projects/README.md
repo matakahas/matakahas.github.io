@@ -33,6 +33,7 @@
 {::options parse_block_html="true" /}
 #### Scalar implicature in online experiments
 <!---<span style="color:purple">*\#semantics&pragmatics*</span>&nbsp;<span style="color:navy">*\#English*</span>--->
+&nbsp;&nbsp;<img src="online_implicature.png" alt="online_implicature" width="300"/>
 <details>
   
   * I am conducting some experiments to discover the effects of modality, as well as the presence of an in-person experimenter, on the way participants engage in pragmatic reasoning, with a focus on the well-known "some-but-not-all" implicature.
