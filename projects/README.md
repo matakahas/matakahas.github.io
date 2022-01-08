@@ -45,9 +45,10 @@
 
 {::options parse_block_html="true" /}
 #### computational modelling of relative clause processing preference
+&nbsp;&nbsp;<img src="RC_attachment.png" alt="RC_attachment" width="300"/>
 <details>
   
-  * I am examining the effect of presentation modality (video/picture/text), as well as the presence of an in-person experimenter, on the way participants engage in pragmatic reasoning, with a focus on the well-known "some-but-not-all" implicature.
+  * I have conducted an evaluation on whether attention-based language models such as GPT-2 can simulate a certain preferennce among Japanese speakers when it comes to processing relative clauses (RCs); specifically, I am interested in whether the models prefer to attach a RC to a linearly closer noun, or a structurally more accessible noun (the latter of which is human parser's preference).
 </details>
 
 {::options parse_block_html="false" /}
