@@ -36,7 +36,18 @@
 &nbsp;&nbsp;<img src="online_implicature.png" alt="online_implicature" width="300"/>
 <details>
   
-  * I am conducting some experiments to discover the effects of modality, as well as the presence of an in-person experimenter, on the way participants engage in pragmatic reasoning, with a focus on the well-known "some-but-not-all" implicature.
+  * I am examining the effect of presentation modality (video/picture/text), as well as the presence of an in-person experimenter, on the way participants engage in pragmatic reasoning, with a focus on the well-known "some-but-not-all" implicature.
+</details>
+
+{::options parse_block_html="false" /}
+
+---
+
+{::options parse_block_html="true" /}
+#### computational modelling of relative clause processing preference
+<details>
+  
+  * I am examining the effect of presentation modality (video/picture/text), as well as the presence of an in-person experimenter, on the way participants engage in pragmatic reasoning, with a focus on the well-known "some-but-not-all" implicature.
 </details>
 
 {::options parse_block_html="false" /}
