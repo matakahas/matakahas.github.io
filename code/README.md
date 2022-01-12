@@ -2,5 +2,5 @@
 
 [R code](https://matakahas.github.io/code/R)
 
-[useful script for online experiment platforms](https://matakahas.github.io/code/experiments)
+[useful script for online experiments](https://matakahas.github.io/code/experiments)
 
