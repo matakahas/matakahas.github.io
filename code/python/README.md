@@ -1,3 +1,3 @@
 python tutorials
-* [markdown](./practice.Rmd)
-* [html](./test.html)
+* [practice](./practice.html)
+* [test](./test.html)
