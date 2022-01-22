@@ -38,14 +38,3 @@ data$Distance[data$Distance == "lg"] <- "long"
 #example 2
 data = data %>% mutate(Distance = ifelse(Distance == "sh", "short", "long"))
 ```
-
-## How to generate a column based on an existing column
-suppose that I want to create a column `Condition` consisting of values 1 through 4, which correspond to the conditions as specified under the `Island` and `Distance` columns. Here is one way to achieve this.
-
-```r
-data <- data %>% mutate(Condition = case_when((Island == "non" & Distance == "short") ~ 1,
-                                              (Island == "non" & Distance == "long") ~ 2,
-                                              (Island == "isl" & Distance == "short") ~ 3,
-                                              (Island == "isl" & Distance == "long") ~ 4,
-                                              TRUE ~ 0))
-```
