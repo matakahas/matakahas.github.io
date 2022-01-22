@@ -6,7 +6,7 @@ output:
 ---
 
 ## How to normalize acceptability scores
-In acceptability judgment experiments, participants make use of the acceptability scale (most commonly the 7-point Likert scale) in various ways; some people use 1 and 7 exclusively, while other people stick to 3 through 5. In order to normalize their scores, it is common to convert raw acceptability to z-scores (standard scores). The code for z-score conversion is as follows:
+In acceptability judgment experiments, participants make use of an acceptability scale (most commonly the 7-point Likert scale) in various ways; some people use 1 and 7 exclusively, while other people stick to 3 through 5. In order to normalize their scores, it is common to convert raw acceptability to z-scores (standard scores). The code for z-score conversion is as follows:
 
 
 
