@@ -1,0 +1,189 @@
+---
+title: "data cleaning & visualization practice"
+output: html_document
+---
+## Overview
+this file walks you through the process of importing a dataset that resembles the real dataset that we obtain from an acceptability judgment experiment, cleaning it, and analyzing it. 
+
+## Install and import required packages
+
+`tidyverse` is a collection of R packages ("libraries") designed for data science.
+uncomment and run the following code if the package is not installed in your environment:
+```{r}
+#install.packages('tidyverse') 
+```
+
+call the installed library so that we can use it in this file
+```{r include=FALSE}
+library(tidyverse)
+```
+
+## Import and clean the data
+```{r}
+data = read.csv('./fakedata.csv')
+```
+
+check the data type of each column
+```{r}
+glimpse(data)
+```
+There are columns like the following: \
+* `Lex_set`: Serial number of lexicalization sets (sets of sentences that belong to different conditions but share certain words and phrases)
+* `Condition`: Serial number of condition. As you can see, each lexicalization set consists of four sentences belonging to the different conditions
+* `Score`: Acceptability score given by participants
+
+**NB**: If you are seeing unicodes (e.g., `\u9ad8`) but not kanji under the `Sentence` column, try updating R (not R Studio) to the latest version (R 4.1.2 as of December 2021)
+
+let's convert some of the data types from numerical to categorical. This is because the variables like `Condition` are numbered but we do not intend to apply mathematical operations to them.
+```{r}
+cols = c('Lex_set', 'Condition', 'Subj_id')
+data[cols] = lapply(data[cols], factor) 
+```
+
+we can obtain a subset of data (i.e., certain rows and/or certain columns) using a square bracket
+```{r}
+#subset rows to show acceptability scores from subject 1
+data[data$Subj_id == 1, 6] #6 is the column index of the Score column 
+```
+or we can do so with `which()` function
+```{r}
+#getting row numbers where the subject ID is ten
+idx = which(data$Subj_id == 10)
+data[idx, ]
+```
+
+### Exercise 1: Find & replace rows with NA values
+suppose that I forgot to turn on the feature in my experiment where participants must select an answer in order to proceed. As a result, there may be some rows with an acceptability score missing. Find rows with a missing `Score` value and replace them with **3**.
+
+**Advanced**: Find rows with a missing `Score` value and replace them with the mean acceptability score. 
+
+```{r}
+#write your answers here
+
+```
+
+### Answers
+```{r}
+#find rows with NA values
+data[is.na(data$Score),]
+```
+
+```{r}
+#replace NA values with 3
+idx = which(is.na(data$Score)) #get row number of missing values
+data[idx, ]$Score = 3
+data[idx, ]
+```
+
+```{r}
+#replace NA values with mean score.
+#Don't forget to include na.rm=TRUE, or the returned value will be NA
+data[idx, ]$Score = mean(data$Score, na.rm=TRUE)
+data[idx, ]
+```
+
+### Exercise 2: Find & modify impossible scores
+suppose also that there are some rows with the acceptability score out of the possible range (1 to 7). Find such rows.
+
+**Advanced**: Replace the rows with **7** if a value is over 7, and **1** if it is under 1. Hint: Use `ifelse()` function whose arguments are condition, value if the condition is met, value if the condition is not met
+
+```{r}
+#example
+sample_data = data.frame(a = seq(1,8), b = LETTERS[1:8])
+#make a new column c where a value is "even" if column a on the same row is an even number, "odd" if an odd number
+sample_data$c = ifelse(sample_data$a %% 2 == 0, "even", "odd")
+sample_data
+```
+
+```{r}
+#write your answers here
+
+```
+
+### Answers
+```{r}
+#find rows with the score of over 7 or under 1 and modify them
+idx = which(data$Score > 7 | data$Score < 1)
+data[idx, ]$Score = ifelse(data[idx, ]$Score > 7, 7, 1)
+data[idx, ]
+```
+
+## Get the summary of results
+grouping the data by condition and averaging the acceptability score with the `summarize` function is a quick and easy way to get a snapshot of results.
+```{r}
+data %>% group_by(Condition) %>% summarize(ave = mean(Score))
+```
+
+### Exercise 3: Get an average score per participant 
+```{r}
+#write your answers here
+
+```
+
+### Answer
+```{r}
+data %>% group_by(Subj_id) %>% summarize(ave = mean(Score))
+```
+
+## Convert raw acceptability scores to z-scores
+in reality, participants make use of the acceptability scale in various ways; some people use 1 and 7 exclusively, while other people stick to 3 through 5. In order to normalize their scores, it is common to convert raw acceptability to z-scores (standard scores). The formula for z-score conversion is as follows:  
+
+z-score = raw score - sample mean / standard deviation of sample  
+
+```{r}
+data = data %>% group_by(Subj_id) %>% mutate(Z_score = (Score - mean(Score)) / sd(Score))
+```
+
+## Plot the results
+we will use the package `ggplot` for visualization. The syntax for ggplot is slightly different from the R syntax, such as the use of `+` when you want to add plot features. First, we will create a summary data to be plotted.
+```{r}
+data_summary = data %>% group_by(Condition) %>% summarize(Ave = mean(Z_score))
+
+#the code below converts condition numbers to actual condition names
+columns = data.frame(Extraction=c('no_extraction', 'no_extraction', 'extraction', 'extraction'),
+                     RC=c('non_RC','RC','non_RC','RC'))
+data_summary = cbind(columns, data_summary)
+data_summary
+```
+
+```{r}
+data_summary$Extraction = factor(data_summary$Extraction, levels = c('no_extraction', 'extraction'))
+
+data_summary %>% ggplot(aes(x=Extraction, y=Ave))+
+  geom_point()+
+  geom_path(aes(group = RC, linetype = rev(RC)))+
+  guides(linetype = guide_legend(reverse = TRUE))+
+  expand_limits(y = c(-1, 1))
+```
+
+### Exercise 4: Make the graph look better
+please do the following:  
+- Change the title of the y-axis to be something more descriptive (e.g., "mean acceptability in z-score")  
+- Remove the x-axis title ("Extraction")  
+- Make the axis titles and labels bigger  
+- Remove the legend title ("rev(RC)")
+- Remove the grey background and grids (use function `theme_classic()` or `theme_bw()`)
+- **Advanced** move the legend so that it is displayed inside the graph (rather than next to the graph)
+```{r}
+#write your answers here
+
+```
+
+### Answer
+```{r}
+data_summary %>% ggplot(aes(x=Extraction, y=Ave))+
+  geom_point()+
+  geom_path(aes(group = RC, linetype = rev(RC)))+
+  guides(linetype = guide_legend(reverse = TRUE))+
+  expand_limits(y = c(-1, 1))+
+  theme_classic()+
+  ylab('mean z-score')+
+  theme(legend.title = element_blank(),
+        legend.position = c(0.9, 0.9),
+        legend.text = element_text(size = 15),
+        axis.text.x = element_text(size = 15),
+        axis.title.x = element_blank(),
+        axis.title.y = element_text(size = 15))
+```
+
+
