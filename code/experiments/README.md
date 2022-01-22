@@ -1,1 +1,1 @@
-tips for online experiments
+useful tips and tricks for online experiments coming up!
