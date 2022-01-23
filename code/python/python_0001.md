@@ -1,4 +1,4 @@
-## how to deal with NaN values in a pandas dataframe
+## How to deal with NaN values in a pandas dataframe
 ### fill NaN values with the mean of a column they belong
 
 
