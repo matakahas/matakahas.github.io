@@ -6,3 +6,4 @@
 * [How to plot the results of an acceptability judgment experiment](./R_0005.md)
 * [Different ways to subset rows and columns](./R_0006.md)
 * [How to assign subject IDs](./R_0007.md)
+* [How to split a column into two](./R_0008.md)
