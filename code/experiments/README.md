@@ -1,1 +1,1 @@
-useful tips and tricks for online experiments coming up!
+* [How to get Qualtrics to autofill Prolific participant ID](./autofill.md)
