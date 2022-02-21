@@ -49,6 +49,7 @@
 <details>
   
   * I have conducted an evaluation on whether attention-based language models such as GPT-2 can simulate a certain preferennce among Japanese speakers when it comes to processing relative clauses (RCs); specifically, I am interested in whether the models prefer to attach a RC to a linearly closer noun, or a structurally more accessible noun (the latter of which is human parser's preference).
+  * Check out [the notebook](https://colab.research.google.com/drive/1_VUB3ZFKdX6oM6kpw-R_pRqNV_MkMpMN?usp=sharing) summarizing my findings.
 </details>
 
 {::options parse_block_html="false" /}
