@@ -3,3 +3,4 @@
 * [Different ways to subset rows and columns](./python_0002.md)
 * [How to reorder rows and columns](./python_0003.md)
 * [How to reformat and rename values in a column](./python_0004.md)
+* [How to assign subject IDs](./python_0005.md)
