@@ -4,7 +4,7 @@
 
 #### Island sensitivity of gap-filler dependencies as exemplified by double-gap relative clauses (RCs) in Japanese
 <!---<span style="color:blue">*\#experimental syntax*</span>&nbsp;<span style="color:green">*\#Japanese*</span> \--->
-&nbsp;&nbsp;<img src="double_gap_exp1.png" alt="double_gap_exp1" width="300"/>
+&nbsp;&nbsp;<img src="exp1.png" alt="double_gap_exp1" width="300"/>
 <details>
   
   * I ran a couple of factorial-design acceptability experiments in order to examine whether the dependency where a gap precedes its filler would exhibit the same degree of island effects as filler-gap dependencies, focusing on the case in Japanese where relativization seems to have taken place out of another RC.
