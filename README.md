@@ -4,7 +4,7 @@ I am a member of the [Experimental Syntax Lab](http://grammar.ucsd.edu/syntaxlab
 
 My research interest lies in quantifying our intuition about grammatical and semantic knowledge through experimentation, and exploring the interaction of cognitive capacities and linguistic competence in language acquisition and making grammaticality judgments.
 
-I am a former member of the [Language Development and Processing Lab](https://depts.washington.edu/ldplab/) directed by the late Akira Omaki at the **University of Washington**.
+I am a former member of the [Language Development and Processing Lab](https://depts.washington.edu/ldplab/) founded by the late Akira Omaki at the **University of Washington**.
 
 Previously I received a master's degree in Linguistics from the **University of Hawaiʻi at Mānoa**, and a bachelor's degree in International Liberal Studies from **Waseda University** (Tokyo, Japan).
 
