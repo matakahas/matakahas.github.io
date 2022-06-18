@@ -6,3 +6,4 @@
 * [How to assign subject IDs](./python_0005.md)
 * [How to convert acceptability scores to z-scores](./python_0006.md)
 * [How to group and aggregate data](./python_0007.md)
+* [How to generate random datasets](./python_0008.md)
