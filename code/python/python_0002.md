@@ -473,7 +473,66 @@ df.iloc[0:2, 1:3]
 
 
 
+### selecting columns of a certain data type
+
 
 ```python
-
+df.select_dtypes(include = "number")
 ```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Updated_Price</th>
+      <th>Discount</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>880</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>1250</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>1450</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>1550</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>400</td>
+      <td>10</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
