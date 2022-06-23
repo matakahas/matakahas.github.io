@@ -424,7 +424,7 @@ df[df['Updated_Price'] > 1000]
 
 
 
-### selecting both rows and columns with indexes
+### select both rows and columns with indexes
 
 
 ```python
@@ -473,7 +473,69 @@ df.iloc[0:2, 1:3]
 
 
 
-### selecting columns of a certain data type
+### select every nth row
+
+
+```python
+df.iloc[::2, :] #every 2nd row
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Date</th>
+      <th>Product</th>
+      <th>Updated_Price</th>
+      <th>Discount</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>10/2/2011</td>
+      <td>umbrella</td>
+      <td>880</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>11/2/2011</td>
+      <td>badminton</td>
+      <td>1450</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>13/2/2011</td>
+      <td>jacket</td>
+      <td>400</td>
+      <td>10</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+### select columns of a certain data type
 
 
 ```python
