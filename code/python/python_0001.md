@@ -1,4 +1,4 @@
-## how to deal with NaN values in a pandas dataframe
+## how to find and deal with NaN values in a pandas dataframe
 
 
 ```python
@@ -85,6 +85,93 @@ df
   </tbody>
 </table>
 </div>
+
+
+
+### display rows with NaN values from any of the columns
+
+
+```python
+df[df.isnull().any(axis=1)]
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Date</th>
+      <th>Product</th>
+      <th>Updated_Price</th>
+      <th>Discount</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>10/2/2011</td>
+      <td>umbrella</td>
+      <td>NaN</td>
+      <td>10.0</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>NaN</td>
+      <td>matress</td>
+      <td>1250.0</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>11/2/2011</td>
+      <td>badminton</td>
+      <td>1450.0</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>13/2/2011</td>
+      <td>NaN</td>
+      <td>400.0</td>
+      <td>10.0</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+### display number of rows with NaN values per column
+
+
+```python
+df.isnull().sum()
+```
+
+
+
+
+    Date             1
+    Product          1
+    Updated_Price    1
+    Discount         1
+    dtype: int64
 
 
 
