@@ -598,3 +598,70 @@ df.select_dtypes(include = "number")
 </div>
 
 
+
+### select rows that do (not) exist in another dataset
+
+
+```python
+df2 = pd.DataFrame({'Date':['10/2/2011', '9/2/2011', '11/2/2011'],
+                   'Product':['umbrella', 'couch', 'badminton'],
+                   'Updated_Price':[880, 1750, 1450],
+                   'Discount':[10, 9, 20]})
+
+df[~df.isin(df2).all(1)] #remove ~ if you want to select rows that do exist in df2
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Date</th>
+      <th>Product</th>
+      <th>Updated_Price</th>
+      <th>Discount</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td>10/2/2011</td>
+      <td>matress</td>
+      <td>1250</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>12/2/2011</td>
+      <td>shuttle</td>
+      <td>1550</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>13/2/2011</td>
+      <td>jacket</td>
+      <td>400</td>
+      <td>10</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
