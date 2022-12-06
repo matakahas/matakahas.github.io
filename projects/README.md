@@ -46,7 +46,7 @@
 ---
 
 {::options parse_block_html="true" /}
-#### computational modelling of relative clause processing preference
+#### computational modelling of grammatical constraints and processing preferences
 &nbsp;&nbsp;<img src="RC_attachment.png" alt="RC_attachment" width="300"/>
 <details>
   
