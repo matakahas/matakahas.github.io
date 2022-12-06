@@ -2,13 +2,14 @@
 
 {::options parse_block_html="true" /}
 
-#### Island sensitivity of gap-filler dependencies as exemplified by double-gap relative clauses (RCs) in Japanese
+#### Island sensitivity of gap-filler dependencies
 <!---<span style="color:blue">*\#experimental syntax*</span>&nbsp;<span style="color:green">*\#Japanese*</span> \--->
 &nbsp;&nbsp;<img src="exp1.png" alt="double_gap_exp1" width="300"/>
 <details>
   
-  * I ran a couple of factorial-design acceptability experiments in order to examine whether the dependency where a gap precedes its filler would exhibit the same degree of island effects as filler-gap dependencies, focusing on the case in Japanese where relativization seems to have taken place out of another RC.
-  * Presentation slides for a talk on this project can be accessed [here](CAMP_Takahashi.pdf)
+  * I have run a couple of factorial-design acceptability experiments in order to examine whether the dependency where a gap precedes its filler would exhibit the same degree of island effects as filler-gap dependencies, focusing on the case in Japanese where relativization seems to have taken place out of another relative clause, a known island (double relatives).
+  * My findings so far suggest that they are indeed sensitive to the RC island, but the resulting island effect is relatively small. I am currently conducting follow-up experiments to find out why.
+  * Presented at 2021 California Meeting on Psycholinguistics ([slides](CAMP_Takahashi.pdf))
 </details>
 
 {::options parse_block_html="false" /}
@@ -17,13 +18,13 @@
 
 {::options parse_block_html="true" /}
 
-#### Presuppositional component of 'only' and the effect of experimental manipulations on its interpretation
+#### Presupposition of English focus marker 'only'
 <!---<span style="color:purple">*\#semantics&pragmatics*</span>&nbsp;<span style="color:navy">*\#English*</span> \--->
 &nbsp;&nbsp;<img src="only_presupposition.png" alt="only_presupposition" width="330"/>
 <details>
-  
+
   * I conducted a series of experiments to find out what is presupposed by the focus marker 'only'; is it the prejacent of the sentence (e.g., "John ate only bananas" presupposes that "John ate (at least) bananas"), or something else? My focus is on whether a certain experimental paradigm, namely the one that proffers alternative propositions in the form of response options, can change the presuppositional component of 'only'.
-  * Presentation slides for a talk on this project can be accessed [here](AMLaP_Takahashi.pdf)
+  * Presented at 2021 AMLaP ([slides](AMLaP_Takahashi.pdf))
 </details>
 
 {::options parse_block_html="false" /}
@@ -37,6 +38,7 @@
 <details>
   
   * I am examining the effect of presentation modality (video/picture/text), as well as the presence of an in-person experimenter, on the way participants engage in pragmatic reasoning, with a focus on the well-known "some-but-not-all" implicature.
+  * Presented at 2022 Experiments in Linguistic Meaning ([slides](ELM_Takahashi.pdf))
 </details>
 
 {::options parse_block_html="false" /}
