@@ -10,3 +10,4 @@
 * [How to create a new column](./python_0009.md)
 * [How to spread data with NaN values](./python_0010.md)
 * [How to check for counterbalancing](./python_0011.md)
+* [How to mutate the dataframe to add item mean and sd](./python_0012.md)
