@@ -8,3 +8,4 @@
 * [How to group and aggregate data](./python_0007.md)
 * [How to generate random datasets](./python_0008.md)
 * [How to create a new column](./python_0009.md)
+* [How to spread data with NaN values](./python_0010.md)
