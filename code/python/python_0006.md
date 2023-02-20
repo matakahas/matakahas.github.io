@@ -90,7 +90,7 @@ sample.head(3)
 
 
 ```python
-sample['Z_score'] = sample.groupby('Subj_id').Score.transform(lambda x : zscore(x,ddof=1))
+sample['Z_score'] = sample.groupby('Subj_id').transform(lambda x : zscore(x,ddof=1))
 ```
 
 
