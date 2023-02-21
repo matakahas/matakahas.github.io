@@ -11,3 +11,4 @@
 * [How to spread data with NaN values](./python_0010.md)
 * [How to check for counterbalancing](./python_0011.md)
 * [How to mutate the dataframe to add item mean and sd](./python_0012.md)
+* [How to group data and check values by group](./python_0013.md)
