@@ -1,4 +1,4 @@
-<img align="left" src="my_pic.jpg" alt="welcome" width="300"/>
+<!--<img align="left" src="my_pic.jpg" alt="welcome" width="300"/>-->
 
 My name is Maho Takahashi, and I am a PhD candidate in Linguistics at the **University of California, San Diego**. 
 
