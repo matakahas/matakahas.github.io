@@ -1,3 +1,5 @@
+<img align="left" src="my_pic.jpg" alt="welcome" width="300"/>
+
 My name is Maho Takahashi, and I am a PhD candidate in Linguistics at the **University of California, San Diego**. 
 
 I am a member of the [Experimental Syntax Lab](http://grammar.ucsd.edu/syntaxlab/) directed by Dr. Grant Goodall and the [Language and Development Lab](http://www.ladlab.com/) directed by Dr. David Barner.
