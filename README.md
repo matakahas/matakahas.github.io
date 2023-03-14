@@ -10,8 +10,4 @@ Previously I received a master's degree in Linguistics from the **University of 
 
 Email: mtakahas\[at\]ucsd\[dot\]edu
 
-[LinkedIn](https://www.linkedin.com/in/maho-takahashi/)/[GitHub](https://github.com/matakahas)/[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=JHRkrfAAAAAJ)/[OSF.io](https://osf.io/6c4gb/)
-
-
-
 [日本語](./nihongo.md)
