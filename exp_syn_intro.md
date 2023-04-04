@@ -46,7 +46,7 @@
 
 <br clear="left"/>
 
-* 一方で以下のような結果になった場合、◯で囲った文（＝3d）の許容度は[+long distance]と[+island structure]の足し算のみでは説明しきれない下がり方をしている。そしてこれこそが、“whether” island constraintが独自に存在する証明となり得るのである。統計的には、[±long distance]と[±island structure]の交互作用（interaction effect）が有意かどうかを観察するのが一般的である。
+* 一方で以下のような結果になった場合、◯で囲った文（＝3d）の許容度は\[+long distance\]と\[+island structure\]の足し算のみでは説明しきれない下がり方をしている。そしてこれこそが、“whether” island constraintが独自に存在する証明となり得るのである。統計的には、\[±long distance\]と\[±island structure\]の交互作用（interaction effect）が有意かどうかを観察するのが一般的である。
 
 <img align="left" src="island.png" hspace="15" vspace="15"/>
 
