@@ -41,8 +41,22 @@
 
 * こういった異なる要因を個別にコントロールする手法はfactorial designと呼ばれ、acceptability experimentの最大の特徴である。そして(3)のような文を被験者（英語を第一言語とする者）に評価（最もポピュラーなのが7段階評価）をしてもらい、結果の可視化、統計的な分析などが行われる。
 * Acceptability experimentのどのような結果が、「英語には“whether” island constraintが文法として存在する」という仮説の否定または証明に繋がるか見てゆこう。まず以下のような結果になった場合だが、◯で囲った文（＝3d）の許容度の低さは単なる\[+long distance\]と\[+island structure\]の積み重なりのためであり、“whether” island constraintが独自に存在する証明にはならない。
-* 
 
+<img align="left" src="noisland.png" hspace="15" vspace="15"/>
 
+<br clear="left"/>
+
+* 一方で以下のような結果になった場合、◯で囲った文（＝3d）の許容度は[+long distance]と[+island structure]の足し算のみでは説明しきれない下がり方をしている。そしてこれこそが、“whether” island constraintが独自に存在する証明となり得るのである。統計的には、[±long distance]と[±island structure]の交互作用（interaction effect）が有意かどうかを観察するのが一般的である。
+
+<img align="left" src="island.png" hspace="15" vspace="15"/>
+
+<br clear="left"/>
+
+* 上記のように、experimental syntaxの手法は文の許容度を下げている要因を顕在化し、それらをfactorial designによってコントロールし、特定の制約が文法として存在するのか明らかにすることで統語論における理論の構築、そして我々の言語に関する理解に大いに貢献する可能性を秘めているのである。
+
+### 参考文献、Experimental syntaxについてより詳しく知れる文献一覧
+* Goodall, G. (2021). *The Cambridge Handbook of Experimental Syntax*. Cambridge University Press.
+* Sprouse, J. & Hornstein, N. (2013). *Experimental Syntax and Island Effects*, Cambridge University Press.
+* Sprouse, J., Caponigro, I., Greco, C., & Cecchetto, C. (2016). Experimental syntax and the variation of island effects in English and Italian. *Natural Language & Linguistic Theory*, 34, 307-344.
 
 
