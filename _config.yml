@@ -4,8 +4,4 @@ author:
   email: mtakahas@ucsd.edu
 title: Maho Takahashi
 description: Linguistics PhD Student at UC San Diego
-# Analytics
-analytics:
-  provider               : "google-gtag"
-  google:
-    measurement_id          : "G-K90YMB1J1H"
+google_analytics: G-K90YMB1J1H
