@@ -7,7 +7,7 @@ description: Linguistics PhD Student at UC San Diego
 # google_analytics: G-K90YMB1J1H
 # Analytics
 analytics:
-  provider               : "google-gtag"
+  provider               : google-gtag
   google:
-    measurement_id          : "G-K90YMB1J1H"
+    measurement_id          : G-K90YMB1J1H
     anonymize_ip         : false
