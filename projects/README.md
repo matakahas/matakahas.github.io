@@ -2,14 +2,13 @@
 
 {::options parse_block_html="true" /}
 
-#### Island sensitivity of gap-filler dependencies
+#### Island sensitivity of Japanese double relatives
 <!---<span style="color:blue">*\#experimental syntax*</span>&nbsp;<span style="color:green">*\#Japanese*</span> \--->
 &nbsp;&nbsp;<img src="exp1.png" alt="double_gap_exp1" width="300"/>
 <details>
   
-  * I have run a couple of factorial-design acceptability experiments in order to examine whether the dependency where a gap precedes its filler would exhibit the same degree of island effects as filler-gap dependencies, focusing on the case in Japanese where relativization seems to have taken place out of another relative clause, a known island (double relatives).
-  * My findings so far suggest that they are indeed sensitive to the RC island, but the resulting island effect is relatively small. I am currently conducting follow-up experiments to find out why.
-  * Presented at 2021 California Meeting on Psycholinguistics ([slides](CAMP_Takahashi.pdf))
+  * For my dissertation project, I have run a series of factorial-design acceptability experiments to examine (i) whether relativization out of a relative clause island (double relative) in Japanese exhibits an island effect, and (ii) which factors modulate the size of the relative clause island effect in English and Japanese.
+  * Results presented in multiple conferences (CUNY 34, CAMP 4, CLS 58, HSP 36).
 </details>
 
 {::options parse_block_html="false" /}
@@ -18,13 +17,13 @@
 
 {::options parse_block_html="true" /}
 
-#### Presupposition of English focus marker 'only'
+#### Presupposition of 'only'
 <!---<span style="color:purple">*\#semantics&pragmatics*</span>&nbsp;<span style="color:navy">*\#English*</span> \--->
 &nbsp;&nbsp;<img src="only_presupposition.png" alt="only_presupposition" width="330"/>
 <details>
 
-  * I conducted a series of experiments to find out what is presupposed by the focus marker 'only'; is it the prejacent of the sentence (e.g., "John ate only bananas" presupposes that "John ate (at least) bananas"), or something else? My focus is on whether a certain experimental paradigm, namely the one that proffers alternative propositions in the form of response options, can change the presuppositional component of 'only'.
-  * Presented at 2021 AMLaP ([slides](AMLaP_Takahashi.pdf))
+  * I conducted multiple experiments to find out what is presupposed by English focus marker 'only'; is it the prejacent of the sentence (e.g., "John ate only bananas" presupposes that "John ate (at least) bananas"), or something else? My focus is on whether a certain experimental paradigm, namely the one that proffers alternative propositions in the form of response options, can change the presuppositional component of 'only'.
+  * Presented at AMLaP 2021 ([slides](AMLaP_Takahashi.pdf))
 </details>
 
 {::options parse_block_html="false" /}
@@ -37,7 +36,7 @@
 &nbsp;&nbsp;<img src="online_implicature.png" alt="online_implicature" width="300"/>
 <details>
   
-  * I am examining the effect of presentation modality (video/picture/text), as well as the presence of an in-person experimenter, on the way participants engage in pragmatic reasoning, with a focus on the well-known "some-but-not-all" implicature.
+  * I examined the effect of presentation modality (video/picture/text), as well as the presence of an in-person experimenter, on the way participants engage in pragmatic reasoning, with a focus on the well-known "some-but-not-all" implicature.
   * Presented at 2022 Experiments in Linguistic Meaning ([slides](ELM_Takahashi.pdf))
 </details>
 
@@ -46,12 +45,12 @@
 ---
 
 {::options parse_block_html="true" /}
-#### computational modelling of grammatical constraints and processing preferences
+#### computational modelling of island constraints in Japanese
 &nbsp;&nbsp;<img src="RC_attachment.png" alt="RC_attachment" width="300"/>
 <details>
   
-  * I have evaluated neural language models like RNN and GPT-2 to find out if they are capable of capturing a certain preferennce among Japanese speakers when it comes to processing relative clauses (RCs). I have also tested their sensitivity to syntactic islands to see if their performance aligns with the behavior of human subjects. 
-  * Check out these notebooks summarizing my findings: ([RC attachment](https://colab.research.google.com/drive/1_VUB3ZFKdX6oM6kpw-R_pRqNV_MkMpMN?usp=sharing), [RC island](https://colab.research.google.com/drive/1DMXvgKit5HK4sqxm6JpOHaBIPJmOaFDy?usp=sharing))
+  * I evaluated neural language models like LSTM and GPT-2 to find out if they are capable of capturing grammatical constraints like islands in Japanese. 
+  * Findings to be presented at SCiL 6 ([link to proceedings](https://scholarworks.umass.edu/scil/vol6/iss1/33/))
 </details>
 
 {::options parse_block_html="false" /}
