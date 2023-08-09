@@ -10,3 +10,4 @@ I am a former member of the [Language Development and Processing Lab](https://de
 Previously I received a master's degree in Linguistics from the **University of Hawaiʻi at Mānoa**, and a bachelor's degree in International Liberal Studies from **Waseda University** (Tokyo, Japan).
 
 [日本語](./nihongo.md)
+
