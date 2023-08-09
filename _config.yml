@@ -1,3 +1,13 @@
 theme: jekyll-theme-minimal
-title: [Maho Takahashi]
-description: [A short description of your site's purpose]
+author:
+  name: Maho Takahashi
+  email: mtakahas@ucsd.edu
+title: Maho Takahashi
+description: Linguistics PhD Student at UC San Diego
+google_analytics: G-K90YMB1J1H
+# Analytics
+#analytics:
+#  provider               : google-gtag
+#  google:
+#    measurement_id          : G-K90YMB1J1H
+#    anonymize_ip         : false
