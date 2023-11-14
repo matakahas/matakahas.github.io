@@ -50,7 +50,8 @@
 <details>
   
   * I evaluated neural language models like LSTM and GPT-2 to find out if they are capable of capturing grammatical constraints like islands in Japanese. 
-  * Findings to be presented at SCiL 6 ([link to proceedings](https://scholarworks.umass.edu/scil/vol6/iss1/33/))
+  * Findings presented at SCiL 6 ([link to proceedings](https://scholarworks.umass.edu/scil/vol6/iss1/33/))
+  * [Link to code](https://github.com/matakahas/gap_filler_SCiL)
 </details>
 
 {::options parse_block_html="false" /}
