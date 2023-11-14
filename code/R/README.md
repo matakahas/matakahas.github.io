@@ -8,3 +8,4 @@
 * [How to assign subject IDs](./R_0007.md)
 * [How to split a column into two](./R_0008.md)
 * [How to check for counterbalancing](./R_0009.md)
+* [How to remove variables from environment](./R_0010.md)
