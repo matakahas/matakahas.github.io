@@ -1,0 +1,513 @@
+Movement,Island_Type,Island,Distance,Item,Sentence,Subj_id,Score
+WH,whe,non,sh,1,Who thinks that Paul stole the necklace?,1,6
+WH,whe,non,sh,2,Who thinks that Matt chased the bus?,1,2
+WH,whe,non,sh,3,Who thinks that Tom sold the television?,1,3
+WH,whe,non,sh,4,Who thinks that Stacey wrote the letter?,1,7
+WH,whe,non,sh,5,Who thinks that Aaron bought the house?,1,2
+WH,whe,non,sh,6,Who thinks that George read the book?,1,4
+WH,whe,non,sh,7,Who thinks that Heather saw the movie?,1,7
+WH,whe,non,sh,8,Who thinks that Casey baked the cake?,1,2
+WH,whe,isl,sh,1,Who wonders whether Paul stole the necklace?,1,5
+WH,whe,isl,sh,2,Who wonders whether Matt chased the bus?,1,2
+WH,whe,isl,sh,3,Who wonders whether Tom sold the television?,1,3
+WH,whe,isl,sh,4,Who wonders whether Stacey wrote the letter?,1,5
+WH,whe,isl,sh,5,Who wonders whether Aaron bought the house?,1,5
+WH,whe,isl,sh,6,Who wonders whether George read the book?,1,2
+WH,whe,isl,sh,7,Who wonders whether Heather saw the movie?,1,4
+WH,whe,isl,sh,8,Who wonders whether Casey baked the cake?,1,4
+WH,whe,non,lg,1,What does the detective think that Paul stole?,1,2
+WH,whe,non,lg,2,What does the police officer think that Matt chased?,1,3
+WH,whe,non,lg,3,What does the manager think that Tom sold?,1,2
+WH,whe,non,lg,4,What does the soldier think that Stacey wrote?,1,7
+WH,whe,non,lg,5,What does the agent think that Aaron bought?,1,7
+WH,whe,non,lg,6,What does the teacher think that George read?,1,1
+WH,whe,non,lg,7,What does the girl think that Heather saw?,1,6
+WH,whe,non,lg,8,What does the guest think that Casey baked?,1,5
+WH,whe,isl,lg,1,What does the detective wonder whether Paul stole?,1,2
+WH,whe,isl,lg,2,What does the police officer wonder whether Matt chased?,1,3
+WH,whe,isl,lg,3,What does the manager wonder whether Tom sold?,1,1
+WH,whe,isl,lg,4,What does the soldier wonder whether Stacey wrote?,1,1
+WH,whe,isl,lg,5,What does the agent wonder whether Aaron bought?,1,2
+WH,whe,isl,lg,6,What does the teacher wonder whether George read?,1,1
+WH,whe,isl,lg,7,What does the girl wonder whether Heather saw?,1,1
+WH,whe,isl,lg,8,What does the guest wonder whether Casey baked?,1,4
+WH,whe,non,sh,1,Who thinks that Paul stole the necklace?,2,5
+WH,whe,non,sh,2,Who thinks that Matt chased the bus?,2,4
+WH,whe,non,sh,3,Who thinks that Tom sold the television?,2,6
+WH,whe,non,sh,4,Who thinks that Stacey wrote the letter?,2,3
+WH,whe,non,sh,5,Who thinks that Aaron bought the house?,2,6
+WH,whe,non,sh,6,Who thinks that George read the book?,2,6
+WH,whe,non,sh,7,Who thinks that Heather saw the movie?,2,4
+WH,whe,non,sh,8,Who thinks that Casey baked the cake?,2,6
+WH,whe,isl,sh,1,Who wonders whether Paul stole the necklace?,2,3
+WH,whe,isl,sh,2,Who wonders whether Matt chased the bus?,2,2
+WH,whe,isl,sh,3,Who wonders whether Tom sold the television?,2,5
+WH,whe,isl,sh,4,Who wonders whether Stacey wrote the letter?,2,4
+WH,whe,isl,sh,5,Who wonders whether Aaron bought the house?,2,3
+WH,whe,isl,sh,6,Who wonders whether George read the book?,2,3
+WH,whe,isl,sh,7,Who wonders whether Heather saw the movie?,2,2
+WH,whe,isl,sh,8,Who wonders whether Casey baked the cake?,2,4
+WH,whe,non,lg,1,What does the detective think that Paul stole?,2,1
+WH,whe,non,lg,2,What does the police officer think that Matt chased?,2,3
+WH,whe,non,lg,3,What does the manager think that Tom sold?,2,5
+WH,whe,non,lg,4,What does the soldier think that Stacey wrote?,2,3
+WH,whe,non,lg,5,What does the agent think that Aaron bought?,2,7
+WH,whe,non,lg,6,What does the teacher think that George read?,2,4
+WH,whe,non,lg,7,What does the girl think that Heather saw?,2,1
+WH,whe,non,lg,8,What does the guest think that Casey baked?,2,6
+WH,whe,isl,lg,1,What does the detective wonder whether Paul stole?,2,4
+WH,whe,isl,lg,2,What does the police officer wonder whether Matt chased?,2,2
+WH,whe,isl,lg,3,What does the manager wonder whether Tom sold?,2,1
+WH,whe,isl,lg,4,What does the soldier wonder whether Stacey wrote?,2,4
+WH,whe,isl,lg,5,What does the agent wonder whether Aaron bought?,2,4
+WH,whe,isl,lg,6,What does the teacher wonder whether George read?,2,4
+WH,whe,isl,lg,7,What does the girl wonder whether Heather saw?,2,4
+WH,whe,isl,lg,8,What does the guest wonder whether Casey baked?,2,2
+WH,whe,non,sh,1,Who thinks that Paul stole the necklace?,3,6
+WH,whe,non,sh,2,Who thinks that Matt chased the bus?,3,3
+WH,whe,non,sh,3,Who thinks that Tom sold the television?,3,3
+WH,whe,non,sh,4,Who thinks that Stacey wrote the letter?,3,3
+WH,whe,non,sh,5,Who thinks that Aaron bought the house?,3,4
+WH,whe,non,sh,6,Who thinks that George read the book?,3,5
+WH,whe,non,sh,7,Who thinks that Heather saw the movie?,3,4
+WH,whe,non,sh,8,Who thinks that Casey baked the cake?,3,7
+WH,whe,isl,sh,1,Who wonders whether Paul stole the necklace?,3,4
+WH,whe,isl,sh,2,Who wonders whether Matt chased the bus?,3,2
+WH,whe,isl,sh,3,Who wonders whether Tom sold the television?,3,3
+WH,whe,isl,sh,4,Who wonders whether Stacey wrote the letter?,3,2
+WH,whe,isl,sh,5,Who wonders whether Aaron bought the house?,3,3
+WH,whe,isl,sh,6,Who wonders whether George read the book?,3,4
+WH,whe,isl,sh,7,Who wonders whether Heather saw the movie?,3,5
+WH,whe,isl,sh,8,Who wonders whether Casey baked the cake?,3,2
+WH,whe,non,lg,1,What does the detective think that Paul stole?,3,6
+WH,whe,non,lg,2,What does the police officer think that Matt chased?,3,5
+WH,whe,non,lg,3,What does the manager think that Tom sold?,3,4
+WH,whe,non,lg,4,What does the soldier think that Stacey wrote?,3,1
+WH,whe,non,lg,5,What does the agent think that Aaron bought?,3,5
+WH,whe,non,lg,6,What does the teacher think that George read?,3,4
+WH,whe,non,lg,7,What does the girl think that Heather saw?,3,4
+WH,whe,non,lg,8,What does the guest think that Casey baked?,3,6
+WH,whe,isl,lg,1,What does the detective wonder whether Paul stole?,3,2
+WH,whe,isl,lg,2,What does the police officer wonder whether Matt chased?,3,2
+WH,whe,isl,lg,3,What does the manager wonder whether Tom sold?,3,1
+WH,whe,isl,lg,4,What does the soldier wonder whether Stacey wrote?,3,4
+WH,whe,isl,lg,5,What does the agent wonder whether Aaron bought?,3,3
+WH,whe,isl,lg,6,What does the teacher wonder whether George read?,3,1
+WH,whe,isl,lg,7,What does the girl wonder whether Heather saw?,3,4
+WH,whe,isl,lg,8,What does the guest wonder whether Casey baked?,3,2
+WH,whe,non,sh,1,Who thinks that Paul stole the necklace?,4,7
+WH,whe,non,sh,2,Who thinks that Matt chased the bus?,4,2
+WH,whe,non,sh,3,Who thinks that Tom sold the television?,4,5
+WH,whe,non,sh,4,Who thinks that Stacey wrote the letter?,4,7
+WH,whe,non,sh,5,Who thinks that Aaron bought the house?,4,4
+WH,whe,non,sh,6,Who thinks that George read the book?,4,7
+WH,whe,non,sh,7,Who thinks that Heather saw the movie?,4,7
+WH,whe,non,sh,8,Who thinks that Casey baked the cake?,4,6
+WH,whe,isl,sh,1,Who wonders whether Paul stole the necklace?,4,2
+WH,whe,isl,sh,2,Who wonders whether Matt chased the bus?,4,2
+WH,whe,isl,sh,3,Who wonders whether Tom sold the television?,4,5
+WH,whe,isl,sh,4,Who wonders whether Stacey wrote the letter?,4,2
+WH,whe,isl,sh,5,Who wonders whether Aaron bought the house?,4,4
+WH,whe,isl,sh,6,Who wonders whether George read the book?,4,2
+WH,whe,isl,sh,7,Who wonders whether Heather saw the movie?,4,5
+WH,whe,isl,sh,8,Who wonders whether Casey baked the cake?,4,2
+WH,whe,non,lg,1,What does the detective think that Paul stole?,4,4
+WH,whe,non,lg,2,What does the police officer think that Matt chased?,4,5
+WH,whe,non,lg,3,What does the manager think that Tom sold?,4,2
+WH,whe,non,lg,4,What does the soldier think that Stacey wrote?,4,7
+WH,whe,non,lg,5,What does the agent think that Aaron bought?,4,2
+WH,whe,non,lg,6,What does the teacher think that George read?,4,6
+WH,whe,non,lg,7,What does the girl think that Heather saw?,4,5
+WH,whe,non,lg,8,What does the guest think that Casey baked?,4,3
+WH,whe,isl,lg,1,What does the detective wonder whether Paul stole?,4,2
+WH,whe,isl,lg,2,What does the police officer wonder whether Matt chased?,4,2
+WH,whe,isl,lg,3,What does the manager wonder whether Tom sold?,4,4
+WH,whe,isl,lg,4,What does the soldier wonder whether Stacey wrote?,4,4
+WH,whe,isl,lg,5,What does the agent wonder whether Aaron bought?,4,1
+WH,whe,isl,lg,6,What does the teacher wonder whether George read?,4,1
+WH,whe,isl,lg,7,What does the girl wonder whether Heather saw?,4,1
+WH,whe,isl,lg,8,What does the guest wonder whether Casey baked?,4,4
+WH,whe,non,sh,1,Who thinks that Paul stole the necklace?,5,6
+WH,whe,non,sh,2,Who thinks that Matt chased the bus?,5,6
+WH,whe,non,sh,3,Who thinks that Tom sold the television?,5,6
+WH,whe,non,sh,4,Who thinks that Stacey wrote the letter?,5,4
+WH,whe,non,sh,5,Who thinks that Aaron bought the house?,5,5
+WH,whe,non,sh,6,Who thinks that George read the book?,5,6
+WH,whe,non,sh,7,Who thinks that Heather saw the movie?,5,7
+WH,whe,non,sh,8,Who thinks that Casey baked the cake?,5,3
+WH,whe,isl,sh,1,Who wonders whether Paul stole the necklace?,5,3
+WH,whe,isl,sh,2,Who wonders whether Matt chased the bus?,5,5
+WH,whe,isl,sh,3,Who wonders whether Tom sold the television?,5,4
+WH,whe,isl,sh,4,Who wonders whether Stacey wrote the letter?,5,4
+WH,whe,isl,sh,5,Who wonders whether Aaron bought the house?,5,5
+WH,whe,isl,sh,6,Who wonders whether George read the book?,5,2
+WH,whe,isl,sh,7,Who wonders whether Heather saw the movie?,5,5
+WH,whe,isl,sh,8,Who wonders whether Casey baked the cake?,5,4
+WH,whe,non,lg,1,What does the detective think that Paul stole?,5,5
+WH,whe,non,lg,2,What does the police officer think that Matt chased?,5,2
+WH,whe,non,lg,3,What does the manager think that Tom sold?,5,5
+WH,whe,non,lg,4,What does the soldier think that Stacey wrote?,5,5
+WH,whe,non,lg,5,What does the agent think that Aaron bought?,5,3
+WH,whe,non,lg,6,What does the teacher think that George read?,5,3
+WH,whe,non,lg,7,What does the girl think that Heather saw?,5,1
+WH,whe,non,lg,8,What does the guest think that Casey baked?,5,2
+WH,whe,isl,lg,1,What does the detective wonder whether Paul stole?,5,2
+WH,whe,isl,lg,2,What does the police officer wonder whether Matt chased?,5,3
+WH,whe,isl,lg,3,What does the manager wonder whether Tom sold?,5,2
+WH,whe,isl,lg,4,What does the soldier wonder whether Stacey wrote?,5,1
+WH,whe,isl,lg,5,What does the agent wonder whether Aaron bought?,5,4
+WH,whe,isl,lg,6,What does the teacher wonder whether George read?,5,2
+WH,whe,isl,lg,7,What does the girl wonder whether Heather saw?,5,2
+WH,whe,isl,lg,8,What does the guest wonder whether Casey baked?,5,4
+WH,whe,non,sh,1,Who thinks that Paul stole the necklace?,6,5
+WH,whe,non,sh,2,Who thinks that Matt chased the bus?,6,5
+WH,whe,non,sh,3,Who thinks that Tom sold the television?,6,6
+WH,whe,non,sh,4,Who thinks that Stacey wrote the letter?,6,3
+WH,whe,non,sh,5,Who thinks that Aaron bought the house?,6,5
+WH,whe,non,sh,6,Who thinks that George read the book?,6,4
+WH,whe,non,sh,7,Who thinks that Heather saw the movie?,6,2
+WH,whe,non,sh,8,Who thinks that Casey baked the cake?,6,5
+WH,whe,isl,sh,1,Who wonders whether Paul stole the necklace?,6,3
+WH,whe,isl,sh,2,Who wonders whether Matt chased the bus?,6,3
+WH,whe,isl,sh,3,Who wonders whether Tom sold the television?,6,5
+WH,whe,isl,sh,4,Who wonders whether Stacey wrote the letter?,6,2
+WH,whe,isl,sh,5,Who wonders whether Aaron bought the house?,6,2
+WH,whe,isl,sh,6,Who wonders whether George read the book?,6,5
+WH,whe,isl,sh,7,Who wonders whether Heather saw the movie?,6,4
+WH,whe,isl,sh,8,Who wonders whether Casey baked the cake?,6,3
+WH,whe,non,lg,1,What does the detective think that Paul stole?,6,1
+WH,whe,non,lg,2,What does the police officer think that Matt chased?,6,4
+WH,whe,non,lg,3,What does the manager think that Tom sold?,6,3
+WH,whe,non,lg,4,What does the soldier think that Stacey wrote?,6,4
+WH,whe,non,lg,5,What does the agent think that Aaron bought?,6,4
+WH,whe,non,lg,6,What does the teacher think that George read?,6,3
+WH,whe,non,lg,7,What does the girl think that Heather saw?,6,3
+WH,whe,non,lg,8,What does the guest think that Casey baked?,6,3
+WH,whe,isl,lg,1,What does the detective wonder whether Paul stole?,6,4
+WH,whe,isl,lg,2,What does the police officer wonder whether Matt chased?,6,4
+WH,whe,isl,lg,3,What does the manager wonder whether Tom sold?,6,1
+WH,whe,isl,lg,4,What does the soldier wonder whether Stacey wrote?,6,4
+WH,whe,isl,lg,5,What does the agent wonder whether Aaron bought?,6,1
+WH,whe,isl,lg,6,What does the teacher wonder whether George read?,6,2
+WH,whe,isl,lg,7,What does the girl wonder whether Heather saw?,6,2
+WH,whe,isl,lg,8,What does the guest wonder whether Casey baked?,6,3
+WH,whe,non,sh,1,Who thinks that Paul stole the necklace?,7,5
+WH,whe,non,sh,2,Who thinks that Matt chased the bus?,7,2
+WH,whe,non,sh,3,Who thinks that Tom sold the television?,7,4
+WH,whe,non,sh,4,Who thinks that Stacey wrote the letter?,7,5
+WH,whe,non,sh,5,Who thinks that Aaron bought the house?,7,2
+WH,whe,non,sh,6,Who thinks that George read the book?,7,4
+WH,whe,non,sh,7,Who thinks that Heather saw the movie?,7,6
+WH,whe,non,sh,8,Who thinks that Casey baked the cake?,7,7
+WH,whe,isl,sh,1,Who wonders whether Paul stole the necklace?,7,3
+WH,whe,isl,sh,2,Who wonders whether Matt chased the bus?,7,3
+WH,whe,isl,sh,3,Who wonders whether Tom sold the television?,7,4
+WH,whe,isl,sh,4,Who wonders whether Stacey wrote the letter?,7,4
+WH,whe,isl,sh,5,Who wonders whether Aaron bought the house?,7,2
+WH,whe,isl,sh,6,Who wonders whether George read the book?,7,4
+WH,whe,isl,sh,7,Who wonders whether Heather saw the movie?,7,2
+WH,whe,isl,sh,8,Who wonders whether Casey baked the cake?,7,3
+WH,whe,non,lg,1,What does the detective think that Paul stole?,7,1
+WH,whe,non,lg,2,What does the police officer think that Matt chased?,7,7
+WH,whe,non,lg,3,What does the manager think that Tom sold?,7,2
+WH,whe,non,lg,4,What does the soldier think that Stacey wrote?,7,6
+WH,whe,non,lg,5,What does the agent think that Aaron bought?,7,4
+WH,whe,non,lg,6,What does the teacher think that George read?,7,1
+WH,whe,non,lg,7,What does the girl think that Heather saw?,7,2
+WH,whe,non,lg,8,What does the guest think that Casey baked?,7,5
+WH,whe,isl,lg,1,What does the detective wonder whether Paul stole?,7,1
+WH,whe,isl,lg,2,What does the police officer wonder whether Matt chased?,7,4
+WH,whe,isl,lg,3,What does the manager wonder whether Tom sold?,7,2
+WH,whe,isl,lg,4,What does the soldier wonder whether Stacey wrote?,7,2
+WH,whe,isl,lg,5,What does the agent wonder whether Aaron bought?,7,2
+WH,whe,isl,lg,6,What does the teacher wonder whether George read?,7,3
+WH,whe,isl,lg,7,What does the girl wonder whether Heather saw?,7,3
+WH,whe,isl,lg,8,What does the guest wonder whether Casey baked?,7,3
+WH,whe,non,sh,1,Who thinks that Paul stole the necklace?,8,4
+WH,whe,non,sh,2,Who thinks that Matt chased the bus?,8,5
+WH,whe,non,sh,3,Who thinks that Tom sold the television?,8,5
+WH,whe,non,sh,4,Who thinks that Stacey wrote the letter?,8,2
+WH,whe,non,sh,5,Who thinks that Aaron bought the house?,8,4
+WH,whe,non,sh,6,Who thinks that George read the book?,8,2
+WH,whe,non,sh,7,Who thinks that Heather saw the movie?,8,7
+WH,whe,non,sh,8,Who thinks that Casey baked the cake?,8,5
+WH,whe,isl,sh,1,Who wonders whether Paul stole the necklace?,8,4
+WH,whe,isl,sh,2,Who wonders whether Matt chased the bus?,8,3
+WH,whe,isl,sh,3,Who wonders whether Tom sold the television?,8,3
+WH,whe,isl,sh,4,Who wonders whether Stacey wrote the letter?,8,4
+WH,whe,isl,sh,5,Who wonders whether Aaron bought the house?,8,4
+WH,whe,isl,sh,6,Who wonders whether George read the book?,8,5
+WH,whe,isl,sh,7,Who wonders whether Heather saw the movie?,8,3
+WH,whe,isl,sh,8,Who wonders whether Casey baked the cake?,8,2
+WH,whe,non,lg,1,What does the detective think that Paul stole?,8,4
+WH,whe,non,lg,2,What does the police officer think that Matt chased?,8,4
+WH,whe,non,lg,3,What does the manager think that Tom sold?,8,1
+WH,whe,non,lg,4,What does the soldier think that Stacey wrote?,8,4
+WH,whe,non,lg,5,What does the agent think that Aaron bought?,8,2
+WH,whe,non,lg,6,What does the teacher think that George read?,8,2
+WH,whe,non,lg,7,What does the girl think that Heather saw?,8,2
+WH,whe,non,lg,8,What does the guest think that Casey baked?,8,5
+WH,whe,isl,lg,1,What does the detective wonder whether Paul stole?,8,2
+WH,whe,isl,lg,2,What does the police officer wonder whether Matt chased?,8,4
+WH,whe,isl,lg,3,What does the manager wonder whether Tom sold?,8,3
+WH,whe,isl,lg,4,What does the soldier wonder whether Stacey wrote?,8,4
+WH,whe,isl,lg,5,What does the agent wonder whether Aaron bought?,8,3
+WH,whe,isl,lg,6,What does the teacher wonder whether George read?,8,3
+WH,whe,isl,lg,7,What does the girl wonder whether Heather saw?,8,3
+WH,whe,isl,lg,8,What does the guest wonder whether Casey baked?,8,4
+WH,whe,non,sh,1,Who thinks that Paul stole the necklace?,9,3
+WH,whe,non,sh,2,Who thinks that Matt chased the bus?,9,2
+WH,whe,non,sh,3,Who thinks that Tom sold the television?,9,2
+WH,whe,non,sh,4,Who thinks that Stacey wrote the letter?,9,2
+WH,whe,non,sh,5,Who thinks that Aaron bought the house?,9,6
+WH,whe,non,sh,6,Who thinks that George read the book?,9,6
+WH,whe,non,sh,7,Who thinks that Heather saw the movie?,9,3
+WH,whe,non,sh,8,Who thinks that Casey baked the cake?,9,7
+WH,whe,isl,sh,1,Who wonders whether Paul stole the necklace?,9,4
+WH,whe,isl,sh,2,Who wonders whether Matt chased the bus?,9,2
+WH,whe,isl,sh,3,Who wonders whether Tom sold the television?,9,2
+WH,whe,isl,sh,4,Who wonders whether Stacey wrote the letter?,9,5
+WH,whe,isl,sh,5,Who wonders whether Aaron bought the house?,9,3
+WH,whe,isl,sh,6,Who wonders whether George read the book?,9,4
+WH,whe,isl,sh,7,Who wonders whether Heather saw the movie?,9,3
+WH,whe,isl,sh,8,Who wonders whether Casey baked the cake?,9,5
+WH,whe,non,lg,1,What does the detective think that Paul stole?,9,4
+WH,whe,non,lg,2,What does the police officer think that Matt chased?,9,7
+WH,whe,non,lg,3,What does the manager think that Tom sold?,9,7
+WH,whe,non,lg,4,What does the soldier think that Stacey wrote?,9,7
+WH,whe,non,lg,5,What does the agent think that Aaron bought?,9,3
+WH,whe,non,lg,6,What does the teacher think that George read?,9,3
+WH,whe,non,lg,7,What does the girl think that Heather saw?,9,3
+WH,whe,non,lg,8,What does the guest think that Casey baked?,9,3
+WH,whe,isl,lg,1,What does the detective wonder whether Paul stole?,9,1
+WH,whe,isl,lg,2,What does the police officer wonder whether Matt chased?,9,4
+WH,whe,isl,lg,3,What does the manager wonder whether Tom sold?,9,4
+WH,whe,isl,lg,4,What does the soldier wonder whether Stacey wrote?,9,2
+WH,whe,isl,lg,5,What does the agent wonder whether Aaron bought?,9,3
+WH,whe,isl,lg,6,What does the teacher wonder whether George read?,9,3
+WH,whe,isl,lg,7,What does the girl wonder whether Heather saw?,9,3
+WH,whe,isl,lg,8,What does the guest wonder whether Casey baked?,9,3
+WH,whe,non,sh,1,Who thinks that Paul stole the necklace?,10,4
+WH,whe,non,sh,2,Who thinks that Matt chased the bus?,10,5
+WH,whe,non,sh,3,Who thinks that Tom sold the television?,10,6
+WH,whe,non,sh,4,Who thinks that Stacey wrote the letter?,10,2
+WH,whe,non,sh,5,Who thinks that Aaron bought the house?,10,5
+WH,whe,non,sh,6,Who thinks that George read the book?,10,4
+WH,whe,non,sh,7,Who thinks that Heather saw the movie?,10,6
+WH,whe,non,sh,8,Who thinks that Casey baked the cake?,10,2
+WH,whe,isl,sh,1,Who wonders whether Paul stole the necklace?,10,4
+WH,whe,isl,sh,2,Who wonders whether Matt chased the bus?,10,3
+WH,whe,isl,sh,3,Who wonders whether Tom sold the television?,10,2
+WH,whe,isl,sh,4,Who wonders whether Stacey wrote the letter?,10,5
+WH,whe,isl,sh,5,Who wonders whether Aaron bought the house?,10,5
+WH,whe,isl,sh,6,Who wonders whether George read the book?,10,5
+WH,whe,isl,sh,7,Who wonders whether Heather saw the movie?,10,3
+WH,whe,isl,sh,8,Who wonders whether Casey baked the cake?,10,4
+WH,whe,non,lg,1,What does the detective think that Paul stole?,10,2
+WH,whe,non,lg,2,What does the police officer think that Matt chased?,10,2
+WH,whe,non,lg,3,What does the manager think that Tom sold?,10,1
+WH,whe,non,lg,4,What does the soldier think that Stacey wrote?,10,7
+WH,whe,non,lg,5,What does the agent think that Aaron bought?,10,6
+WH,whe,non,lg,6,What does the teacher think that George read?,10,1
+WH,whe,non,lg,7,What does the girl think that Heather saw?,10,1
+WH,whe,non,lg,8,What does the guest think that Casey baked?,10,5
+WH,whe,isl,lg,1,What does the detective wonder whether Paul stole?,10,4
+WH,whe,isl,lg,2,What does the police officer wonder whether Matt chased?,10,3
+WH,whe,isl,lg,3,What does the manager wonder whether Tom sold?,10,3
+WH,whe,isl,lg,4,What does the soldier wonder whether Stacey wrote?,10,4
+WH,whe,isl,lg,5,What does the agent wonder whether Aaron bought?,10,4
+WH,whe,isl,lg,6,What does the teacher wonder whether George read?,10,4
+WH,whe,isl,lg,7,What does the girl wonder whether Heather saw?,10,4
+WH,whe,isl,lg,8,What does the guest wonder whether Casey baked?,10,4
+WH,whe,non,sh,1,Who thinks that Paul stole the necklace?,11,5
+WH,whe,non,sh,2,Who thinks that Matt chased the bus?,11,7
+WH,whe,non,sh,3,Who thinks that Tom sold the television?,11,2
+WH,whe,non,sh,4,Who thinks that Stacey wrote the letter?,11,5
+WH,whe,non,sh,5,Who thinks that Aaron bought the house?,11,4
+WH,whe,non,sh,6,Who thinks that George read the book?,11,6
+WH,whe,non,sh,7,Who thinks that Heather saw the movie?,11,2
+WH,whe,non,sh,8,Who thinks that Casey baked the cake?,11,5
+WH,whe,isl,sh,1,Who wonders whether Paul stole the necklace?,11,2
+WH,whe,isl,sh,2,Who wonders whether Matt chased the bus?,11,5
+WH,whe,isl,sh,3,Who wonders whether Tom sold the television?,11,2
+WH,whe,isl,sh,4,Who wonders whether Stacey wrote the letter?,11,3
+WH,whe,isl,sh,5,Who wonders whether Aaron bought the house?,11,2
+WH,whe,isl,sh,6,Who wonders whether George read the book?,11,3
+WH,whe,isl,sh,7,Who wonders whether Heather saw the movie?,11,4
+WH,whe,isl,sh,8,Who wonders whether Casey baked the cake?,11,4
+WH,whe,non,lg,1,What does the detective think that Paul stole?,11,4
+WH,whe,non,lg,2,What does the police officer think that Matt chased?,11,2
+WH,whe,non,lg,3,What does the manager think that Tom sold?,11,2
+WH,whe,non,lg,4,What does the soldier think that Stacey wrote?,11,7
+WH,whe,non,lg,5,What does the agent think that Aaron bought?,11,4
+WH,whe,non,lg,6,What does the teacher think that George read?,11,3
+WH,whe,non,lg,7,What does the girl think that Heather saw?,11,4
+WH,whe,non,lg,8,What does the guest think that Casey baked?,11,2
+WH,whe,isl,lg,1,What does the detective wonder whether Paul stole?,11,3
+WH,whe,isl,lg,2,What does the police officer wonder whether Matt chased?,11,3
+WH,whe,isl,lg,3,What does the manager wonder whether Tom sold?,11,1
+WH,whe,isl,lg,4,What does the soldier wonder whether Stacey wrote?,11,1
+WH,whe,isl,lg,5,What does the agent wonder whether Aaron bought?,11,4
+WH,whe,isl,lg,6,What does the teacher wonder whether George read?,11,4
+WH,whe,isl,lg,7,What does the girl wonder whether Heather saw?,11,4
+WH,whe,isl,lg,8,What does the guest wonder whether Casey baked?,11,3
+WH,whe,non,sh,1,Who thinks that Paul stole the necklace?,12,2
+WH,whe,non,sh,2,Who thinks that Matt chased the bus?,12,2
+WH,whe,non,sh,3,Who thinks that Tom sold the television?,12,4
+WH,whe,non,sh,4,Who thinks that Stacey wrote the letter?,12,2
+WH,whe,non,sh,5,Who thinks that Aaron bought the house?,12,5
+WH,whe,non,sh,6,Who thinks that George read the book?,12,5
+WH,whe,non,sh,7,Who thinks that Heather saw the movie?,12,7
+WH,whe,non,sh,8,Who thinks that Casey baked the cake?,12,5
+WH,whe,isl,sh,1,Who wonders whether Paul stole the necklace?,12,2
+WH,whe,isl,sh,2,Who wonders whether Matt chased the bus?,12,3
+WH,whe,isl,sh,3,Who wonders whether Tom sold the television?,12,4
+WH,whe,isl,sh,4,Who wonders whether Stacey wrote the letter?,12,5
+WH,whe,isl,sh,5,Who wonders whether Aaron bought the house?,12,5
+WH,whe,isl,sh,6,Who wonders whether George read the book?,12,5
+WH,whe,isl,sh,7,Who wonders whether Heather saw the movie?,12,4
+WH,whe,isl,sh,8,Who wonders whether Casey baked the cake?,12,4
+WH,whe,non,lg,1,What does the detective think that Paul stole?,12,3
+WH,whe,non,lg,2,What does the police officer think that Matt chased?,12,7
+WH,whe,non,lg,3,What does the manager think that Tom sold?,12,3
+WH,whe,non,lg,4,What does the soldier think that Stacey wrote?,12,7
+WH,whe,non,lg,5,What does the agent think that Aaron bought?,12,7
+WH,whe,non,lg,6,What does the teacher think that George read?,12,5
+WH,whe,non,lg,7,What does the girl think that Heather saw?,12,6
+WH,whe,non,lg,8,What does the guest think that Casey baked?,12,4
+WH,whe,isl,lg,1,What does the detective wonder whether Paul stole?,12,1
+WH,whe,isl,lg,2,What does the police officer wonder whether Matt chased?,12,1
+WH,whe,isl,lg,3,What does the manager wonder whether Tom sold?,12,4
+WH,whe,isl,lg,4,What does the soldier wonder whether Stacey wrote?,12,1
+WH,whe,isl,lg,5,What does the agent wonder whether Aaron bought?,12,1
+WH,whe,isl,lg,6,What does the teacher wonder whether George read?,12,3
+WH,whe,isl,lg,7,What does the girl wonder whether Heather saw?,12,1
+WH,whe,isl,lg,8,What does the guest wonder whether Casey baked?,12,1
+WH,whe,non,sh,1,Who thinks that Paul stole the necklace?,13,6
+WH,whe,non,sh,2,Who thinks that Matt chased the bus?,13,4
+WH,whe,non,sh,3,Who thinks that Tom sold the television?,13,2
+WH,whe,non,sh,4,Who thinks that Stacey wrote the letter?,13,6
+WH,whe,non,sh,5,Who thinks that Aaron bought the house?,13,3
+WH,whe,non,sh,6,Who thinks that George read the book?,13,5
+WH,whe,non,sh,7,Who thinks that Heather saw the movie?,13,7
+WH,whe,non,sh,8,Who thinks that Casey baked the cake?,13,6
+WH,whe,isl,sh,1,Who wonders whether Paul stole the necklace?,13,3
+WH,whe,isl,sh,2,Who wonders whether Matt chased the bus?,13,5
+WH,whe,isl,sh,3,Who wonders whether Tom sold the television?,13,4
+WH,whe,isl,sh,4,Who wonders whether Stacey wrote the letter?,13,2
+WH,whe,isl,sh,5,Who wonders whether Aaron bought the house?,13,3
+WH,whe,isl,sh,6,Who wonders whether George read the book?,13,4
+WH,whe,isl,sh,7,Who wonders whether Heather saw the movie?,13,4
+WH,whe,isl,sh,8,Who wonders whether Casey baked the cake?,13,5
+WH,whe,non,lg,1,What does the detective think that Paul stole?,13,4
+WH,whe,non,lg,2,What does the police officer think that Matt chased?,13,2
+WH,whe,non,lg,3,What does the manager think that Tom sold?,13,1
+WH,whe,non,lg,4,What does the soldier think that Stacey wrote?,13,7
+WH,whe,non,lg,5,What does the agent think that Aaron bought?,13,3
+WH,whe,non,lg,6,What does the teacher think that George read?,13,7
+WH,whe,non,lg,7,What does the girl think that Heather saw?,13,2
+WH,whe,non,lg,8,What does the guest think that Casey baked?,13,3
+WH,whe,isl,lg,1,What does the detective wonder whether Paul stole?,13,4
+WH,whe,isl,lg,2,What does the police officer wonder whether Matt chased?,13,2
+WH,whe,isl,lg,3,What does the manager wonder whether Tom sold?,13,4
+WH,whe,isl,lg,4,What does the soldier wonder whether Stacey wrote?,13,4
+WH,whe,isl,lg,5,What does the agent wonder whether Aaron bought?,13,1
+WH,whe,isl,lg,6,What does the teacher wonder whether George read?,13,2
+WH,whe,isl,lg,7,What does the girl wonder whether Heather saw?,13,1
+WH,whe,isl,lg,8,What does the guest wonder whether Casey baked?,13,2
+WH,whe,non,sh,1,Who thinks that Paul stole the necklace?,14,2
+WH,whe,non,sh,2,Who thinks that Matt chased the bus?,14,7
+WH,whe,non,sh,3,Who thinks that Tom sold the television?,14,2
+WH,whe,non,sh,4,Who thinks that Stacey wrote the letter?,14,7
+WH,whe,non,sh,5,Who thinks that Aaron bought the house?,14,5
+WH,whe,non,sh,6,Who thinks that George read the book?,14,4
+WH,whe,non,sh,7,Who thinks that Heather saw the movie?,14,2
+WH,whe,non,sh,8,Who thinks that Casey baked the cake?,14,7
+WH,whe,isl,sh,1,Who wonders whether Paul stole the necklace?,14,5
+WH,whe,isl,sh,2,Who wonders whether Matt chased the bus?,14,5
+WH,whe,isl,sh,3,Who wonders whether Tom sold the television?,14,4
+WH,whe,isl,sh,4,Who wonders whether Stacey wrote the letter?,14,3
+WH,whe,isl,sh,5,Who wonders whether Aaron bought the house?,14,4
+WH,whe,isl,sh,6,Who wonders whether George read the book?,14,5
+WH,whe,isl,sh,7,Who wonders whether Heather saw the movie?,14,4
+WH,whe,isl,sh,8,Who wonders whether Casey baked the cake?,14,5
+WH,whe,non,lg,1,What does the detective think that Paul stole?,14,5
+WH,whe,non,lg,2,What does the police officer think that Matt chased?,14,7
+WH,whe,non,lg,3,What does the manager think that Tom sold?,14,3
+WH,whe,non,lg,4,What does the soldier think that Stacey wrote?,14,7
+WH,whe,non,lg,5,What does the agent think that Aaron bought?,14,5
+WH,whe,non,lg,6,What does the teacher think that George read?,14,5
+WH,whe,non,lg,7,What does the girl think that Heather saw?,14,4
+WH,whe,non,lg,8,What does the guest think that Casey baked?,14,2
+WH,whe,isl,lg,1,What does the detective wonder whether Paul stole?,14,3
+WH,whe,isl,lg,2,What does the police officer wonder whether Matt chased?,14,2
+WH,whe,isl,lg,3,What does the manager wonder whether Tom sold?,14,1
+WH,whe,isl,lg,4,What does the soldier wonder whether Stacey wrote?,14,3
+WH,whe,isl,lg,5,What does the agent wonder whether Aaron bought?,14,4
+WH,whe,isl,lg,6,What does the teacher wonder whether George read?,14,4
+WH,whe,isl,lg,7,What does the girl wonder whether Heather saw?,14,3
+WH,whe,isl,lg,8,What does the guest wonder whether Casey baked?,14,4
+WH,whe,non,sh,1,Who thinks that Paul stole the necklace?,15,5
+WH,whe,non,sh,2,Who thinks that Matt chased the bus?,15,7
+WH,whe,non,sh,3,Who thinks that Tom sold the television?,15,6
+WH,whe,non,sh,4,Who thinks that Stacey wrote the letter?,15,7
+WH,whe,non,sh,5,Who thinks that Aaron bought the house?,15,5
+WH,whe,non,sh,6,Who thinks that George read the book?,15,4
+WH,whe,non,sh,7,Who thinks that Heather saw the movie?,15,3
+WH,whe,non,sh,8,Who thinks that Casey baked the cake?,15,4
+WH,whe,isl,sh,1,Who wonders whether Paul stole the necklace?,15,2
+WH,whe,isl,sh,2,Who wonders whether Matt chased the bus?,15,5
+WH,whe,isl,sh,3,Who wonders whether Tom sold the television?,15,2
+WH,whe,isl,sh,4,Who wonders whether Stacey wrote the letter?,15,2
+WH,whe,isl,sh,5,Who wonders whether Aaron bought the house?,15,3
+WH,whe,isl,sh,6,Who wonders whether George read the book?,15,5
+WH,whe,isl,sh,7,Who wonders whether Heather saw the movie?,15,2
+WH,whe,isl,sh,8,Who wonders whether Casey baked the cake?,15,2
+WH,whe,non,lg,1,What does the detective think that Paul stole?,15,5
+WH,whe,non,lg,2,What does the police officer think that Matt chased?,15,2
+WH,whe,non,lg,3,What does the manager think that Tom sold?,15,5
+WH,whe,non,lg,4,What does the soldier think that Stacey wrote?,15,2
+WH,whe,non,lg,5,What does the agent think that Aaron bought?,15,3
+WH,whe,non,lg,6,What does the teacher think that George read?,15,2
+WH,whe,non,lg,7,What does the girl think that Heather saw?,15,7
+WH,whe,non,lg,8,What does the guest think that Casey baked?,15,4
+WH,whe,isl,lg,1,What does the detective wonder whether Paul stole?,15,1
+WH,whe,isl,lg,2,What does the police officer wonder whether Matt chased?,15,4
+WH,whe,isl,lg,3,What does the manager wonder whether Tom sold?,15,1
+WH,whe,isl,lg,4,What does the soldier wonder whether Stacey wrote?,15,3
+WH,whe,isl,lg,5,What does the agent wonder whether Aaron bought?,15,1
+WH,whe,isl,lg,6,What does the teacher wonder whether George read?,15,1
+WH,whe,isl,lg,7,What does the girl wonder whether Heather saw?,15,3
+WH,whe,isl,lg,8,What does the guest wonder whether Casey baked?,15,3
+WH,whe,non,sh,1,Who thinks that Paul stole the necklace?,16,7
+WH,whe,non,sh,2,Who thinks that Matt chased the bus?,16,5
+WH,whe,non,sh,3,Who thinks that Tom sold the television?,16,6
+WH,whe,non,sh,4,Who thinks that Stacey wrote the letter?,16,4
+WH,whe,non,sh,5,Who thinks that Aaron bought the house?,16,3
+WH,whe,non,sh,6,Who thinks that George read the book?,16,4
+WH,whe,non,sh,7,Who thinks that Heather saw the movie?,16,2
+WH,whe,non,sh,8,Who thinks that Casey baked the cake?,16,7
+WH,whe,isl,sh,1,Who wonders whether Paul stole the necklace?,16,3
+WH,whe,isl,sh,2,Who wonders whether Matt chased the bus?,16,2
+WH,whe,isl,sh,3,Who wonders whether Tom sold the television?,16,5
+WH,whe,isl,sh,4,Who wonders whether Stacey wrote the letter?,16,4
+WH,whe,isl,sh,5,Who wonders whether Aaron bought the house?,16,3
+WH,whe,isl,sh,6,Who wonders whether George read the book?,16,5
+WH,whe,isl,sh,7,Who wonders whether Heather saw the movie?,16,5
+WH,whe,isl,sh,8,Who wonders whether Casey baked the cake?,16,4
+WH,whe,non,lg,1,What does the detective think that Paul stole?,16,5
+WH,whe,non,lg,2,What does the police officer think that Matt chased?,16,3
+WH,whe,non,lg,3,What does the manager think that Tom sold?,16,4
+WH,whe,non,lg,4,What does the soldier think that Stacey wrote?,16,6
+WH,whe,non,lg,5,What does the agent think that Aaron bought?,16,1
+WH,whe,non,lg,6,What does the teacher think that George read?,16,7
+WH,whe,non,lg,7,What does the girl think that Heather saw?,16,2
+WH,whe,non,lg,8,What does the guest think that Casey baked?,16,6
+WH,whe,isl,lg,1,What does the detective wonder whether Paul stole?,16,2
+WH,whe,isl,lg,2,What does the police officer wonder whether Matt chased?,16,1
+WH,whe,isl,lg,3,What does the manager wonder whether Tom sold?,16,2
+WH,whe,isl,lg,4,What does the soldier wonder whether Stacey wrote?,16,3
+WH,whe,isl,lg,5,What does the agent wonder whether Aaron bought?,16,4
+WH,whe,isl,lg,6,What does the teacher wonder whether George read?,16,1
+WH,whe,isl,lg,7,What does the girl wonder whether Heather saw?,16,1
+WH,whe,isl,lg,8,What does the guest wonder whether Casey baked?,16,3
