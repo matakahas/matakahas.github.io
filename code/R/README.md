@@ -9,3 +9,7 @@
 * [How to split a column into two](./R_0008.md)
 * [How to check for counterbalancing](./R_0009.md)
 * [How to remove variables from environment](./R_0010.md)
+
+## R tutorials
+* [Data cleaning and visualization in R: Part 1]()
+* [Data cleaning and visualization in R: Part 2]()
