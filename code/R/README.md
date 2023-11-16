@@ -11,5 +11,5 @@
 * [How to remove variables from environment](./R_0010.md)
 
 ## R tutorials
-* [Data cleaning and visualization in R: Part 1]()
-* [Data cleaning and visualization in R: Part 2]()
+* [Data cleaning and visualization in R: Part 1](./practice_cleaning_visualization_1.html)
+* [Data cleaning and visualization in R: Part 2](./practice_cleaning_visualization_2.html)
