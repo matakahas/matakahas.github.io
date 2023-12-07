@@ -9,6 +9,7 @@
 * [How to split a column into two](./R_0008.md)
 * [How to check for counterbalancing](./R_0009.md)
 * [How to remove variables from environment](./R_0010.md)
+* [How to remove unwanted "X" column](./R_0011.md)
 
 ## R tutorials
 * [Data cleaning and visualization in R: Part 1](./practice_cleaning_visualization_1.html) ([data](./fakedata.csv) for tutorial)
