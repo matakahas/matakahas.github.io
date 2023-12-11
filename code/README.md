@@ -4,7 +4,10 @@ This is where I put code snippets and scripts that I've found useful for running
 
 [python code](https://matakahas.github.io/code/python)
 
-[various scripts for online experiments](https://matakahas.github.io/code/experiments)
+[misc scripts for online experiments](https://matakahas.github.io/code/experiments)
 
-Also check out my [portfolio](https://github.com/matakahas/portfolio) showcasing some of the coding projects I have done.  
+Also check out these repositories of my class & certificate projects and [this repo](https://github.com/matakahas/portfolio) showcasing some of my other coding projects.  
 
+* [IBM Data Science Professional Certificate](https://github.com/matakahas/IBM_capstone)
+* [Meta Database Engineer Professional Certificate](https://github.com/matakahas/db-capstone-project)
+* [Deep Learning for Natural Language Understanding (LIGN 167)](https://github.com/matakahas/lign167_project)
