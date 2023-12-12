@@ -8,19 +8,19 @@ After making edits in your local folder, you'll want to commit those edits and p
 
 When this happens, you should generate a **personal access token** to complete authentication. You can make one by going to Settings (not your repository settings, your account settings) and select "Developer setting" from the bottom of the left side menu.
 
-<img src="github1.png" alt="screenshot1" width="500"/>
+<img src="github1.png" alt="screenshot1" width="200"/>
 
 Then, choose "Personal access tokens" and "Tokens (classic)". 
 
-<img src="github2.png" alt="screenshot2" width="500"/>
+<img src="github2.png" alt="screenshot2" width="250"/>
 
 Click on "Generate new token" and choose "Generate new token (classic)". You'll have to enter your Github password.
 
-<img src="github3.png" alt="screenshot3" width="500"/>
+<img src="github3.png" alt="screenshot3" width="700"/>
 
 You will have to fill out the following information: Note, Expiration, and Scopes. For pushing changes to repositories, make sure to check "repo" under the Scopes section. Then click "Generate token" button.
 
-<img src="github4.png" alt="screenshot4" width="500"/>
+<img src="github4.png" alt="screenshot4" width="700"/>
 
 You should then see your personal access token. Make sure to write it down as it won't be displayed again once you exit the tab.
 
@@ -39,7 +39,7 @@ This happens when when both remote and local repositories have new commits since
 2. Run `git merge` to merge local and remote branches. If there are conflicts, Git will pause the merge process and ask you to resolve conflicts manually.
 3. Use a text editor to open the conflicted files. Git will mark the conflicting sections in the file, like in the screenshot below.
 
-<img src="github5.png" alt="screenshot5" width="500"/>
+<img src="github5.png" alt="screenshot5" width="350"/>
 
 4. Edit the file to resolve conflicts between the conflicting branches. Remove the conflict markers once you've resolved the issues.
 5. Run `git merge --continue` to finish the merge.  
