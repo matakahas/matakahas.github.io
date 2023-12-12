@@ -3,3 +3,4 @@
 * [How to concatenate text cells without losing data and with a space on Excel](./sheet.md)
 * [How to check counterbalancing on Excel](./sheet2.md)
 * [How to assign column names to PCIbex raw data](./PCIbex.md)
+* [How to solve n00b errors on Github](./github.md)
