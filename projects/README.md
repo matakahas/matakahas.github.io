@@ -46,7 +46,7 @@
 
 {::options parse_block_html="true" /}
 #### computational modelling of island constraints in Japanese
-&nbsp;&nbsp;<img src="RC_attachment.png" alt="RC_island" width="300"/>
+&nbsp;&nbsp;<img src="RC_island_LM.png" alt="RC_island_LM" width="300"/>
 <details>
   
   * I evaluated neural language models like LSTM and GPT-2 to find out if they are capable of capturing grammatical constraints such as islands in Japanese. 
