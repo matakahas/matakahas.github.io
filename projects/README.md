@@ -60,5 +60,5 @@
 * Computational modelling of relative clause attachment preference in Japanese (write-up available [here](https://drive.google.com/file/d/1ooY4d3Tr325b9aV6TUTiuQI-5rvfvuL6/view?usp=sharing))
 * Evaluating correlations between environmental and linguistic features (presented at 2022 JcoLE workshop "Machine Learning and the Evolution of Language"; [slides](JcoLE_Takahashi_Arnett.pdf))
 *	English-speaking children's acquisition of passive structures (write-up available [here](http://www.lingref.com/bucld/42/BUCLD42-16.pdf))
-*	Japanese-speaking children's acquisition of the syntactic constraints on floating quantifiers (write-up available [here](https://scholarspace.manoa.hawaii.edu/bitstream/10125/58832/RN55-LLL2017.pdf))
-*	Examination of verb restructuring in purpose clause and gerundive clause in Japanese (write-up available [here](http://www.waseda.jp/assoc-JATLaC/Journals/Resources/01.Takahashi.pdf))
+*	Japanese-speaking children's acquisition of the syntactic constraints on floating quantifiers (write-up available [here](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/a208f79f-1c0f-437e-9cee-90ec53bcb365/content))
+*	Examination of verb restructuring in purpose clause and gerundive clause in Japanese (write-up available [here](https://www.waseda.jp/assoc-JATLaC/10.pdf))
