@@ -70,7 +70,7 @@ model_bayes = brm(judgments ~ structure*extraction + (1+structure*extraction | s
                   data = data,
                   prior = priors,
                   family = gaussian(),
-                  chains=3, iter=3000, warmup=600,
+                  iter=10000, warmup=2000,
                   save_all_pars = TRUE)
 
 summary(model_bayes)
