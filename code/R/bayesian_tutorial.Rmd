@@ -1,0 +1,82 @@
+---
+title: "Bayesian method for analyzing results of acceptability judgment experiment"
+output: html_document
+---
+
+### Required packages
+```{r}
+library(tidyverse)
+library(lmerTest)
+library(brms)
+library(bayestestR)
+
+options(dplyr.summarise.inform = FALSE)
+```
+
+### Read data
+```{r}
+data = read.csv("./fakedata_bayesian.csv")
+```
+
+### Visualize data
+The data has typical 2x2 design, manipulating the type of structure in a sentence (non-island|island) and whether there's an extraction out of the structure (+|-).
+```{r}
+data_summary = data %>% group_by(structure, extraction) %>%
+  summarize(n = n(),
+            mu = mean(judgments),
+            sigma = sd(judgments),
+            SE = sigma/sqrt(n))
+
+data_summary$extraction = as.factor(data_summary$extraction)
+```
+
+```{r}
+data_summary %>%
+  ggplot(aes(x=extraction, y=mu))+
+  geom_point()+
+  geom_path(aes(group = structure, linetype = structure))+
+  geom_errorbar(aes(ymin=mu-SE, ymax=mu+SE), width=0.1)+
+  expand_limits(y = c(-1, 1))+
+  theme_bw()
+```
+
+### Frequentist data analysis using `lmer`
+Note that the model isn't maximally random as such a model didn't converge.
+```{r}
+model_lmer = lmer(judgments ~ structure*extraction + (1+extraction | subject) + (1 | item), data=data)
+summary(model_lmer)
+```
+
+### Bayesian data analysis
+### Check default priors
+We can see that the priors for class "b" (regression coefficient) are flat by default.
+```{r}
+default_priors = get_prior(judgments ~ structure*extraction + (1+structure*extraction | subject) + (1+structure*extraction | item), data=data)
+default_priors
+```
+
+### Set priors for class "b"
+Feel free to change the prior for the regression coefficients, as well as the other parameters.
+```{r}
+priors = c(
+  set_prior("student_t(3, 0, 2.5)", class = "b")
+)
+```
+
+### Fit a model
+It will take a while depending on the number of chains and iterations.
+```{r}
+model_bayes = brm(judgments ~ structure*extraction + (1+structure*extraction | subject) + (1+structure*extraction | item), 
+                  data = data,
+                  prior = priors,
+                  family = gaussian(),
+                  chains=3, iter=3000, warmup=600,
+                  save_all_pars = TRUE)
+
+summary(model_bayes)
+```
+
+### Calculate Bayes Factor
+```{r}
+bayesfactor_parameters(model_bayes, null = 0)
+```
