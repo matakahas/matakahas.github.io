@@ -14,4 +14,4 @@
 ## R tutorials
 * [Data cleaning and visualization in R: Part 1](./practice_cleaning_visualization_1.html) ([data](./fakedata.csv) for tutorial)
 * [Data cleaning and visualization in R: Part 2](./practice_cleaning_visualization_2.html) ([data](./fakedata_2.csv) for tutorial)
-* How to run Bayesian analysis ([slides](./Bayesian_analysis_tutorial.pdf), [code](./bayesian_tutorial.Rmd), [data](./fakedata_bayesian.csv) for tutorial)
+* How to run Bayesian analysis ([slides](./bayesian_analysis_tutorial.pdf), [code](./bayesian_tutorial.Rmd), [data](./fakedata_bayesian.csv) for tutorial)
