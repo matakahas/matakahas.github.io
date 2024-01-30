@@ -1,51 +1,25 @@
----
-jupyter:
-  colab:
-  kernelspec:
-    display_name: Python 3
-    name: python3
-  language_info:
-    name: python
-  nbformat: 4
-  nbformat_minor: 0
----
+## how to iterate over rows without df.iterrows()
 
-::: {.cell .markdown id="pm1pDeFSLbMo"}
-## how to iterate over rows without df.iterrows() {#how-to-iterate-over-rows-without-dfiterrows}
-:::
+Using `iterrows()` in Pandas is often considered a bad idea for performance reasons (for instance, `iterrows()` converts each rows to a index and series pair, which slows down an execution).
 
-::: {.cell .markdown id="TppIOSPyLd73"}
-Using `iterrows()` in Pandas is often considered a bad idea for
-performance reasons (for instance, `iterrows()` converts each rows to a
-index and series pair, which slows down an execution).
+I recently ran into a situation where I need to (i) check if each row in a certain column ("subscription_type") is NaN, (ii) if so, grab the their parent subscriber id under another column of the row ("is_plus_1_of"), and (iii) replace NaN with the subscription type of the parent subscriber. Here's how I managed to do these without relying on `iterrows()` - namely, I wrote a function and call the function for each row with `apply()`.
 
-I recently ran into a situation where I need to (i) check if each row in
-a certain column (\"subscription_type\") is NaN, (ii) if so, grab the
-their parent subscriber id under another column of the row
-(\"is_plus_1\_of\"), and (iii) replace NaN with the subscription type of
-the parent subscriber. Here\'s how I managed to do these without relying
-on `iterrows()` - namely, I wrote a function and call the function for
-each row with `apply()`.
-:::
 
-::: {.cell .code execution_count="1" id="Koij1hGEq7S7"}
-``` python
+```python
 import pandas as pd
 import numpy as np
 ```
-:::
 
-::: {.cell .code execution_count="2" id="6cUH8vxiq4Y4"}
-``` python
+
+```python
 df = pd.DataFrame({'subscriber_id':['21daf8cd', '3393eee6', 'e0c9b302', '1f0c4dbc', '7c49a7e8'],
                    'subscription_type':[np.nan, 'standard', np.nan, 'pro', 'standard'],
                    'is_plus_1_of':['1f0c4dbc', np.nan, '3393eee6', np.nan, np.nan],
                    'account_create_date':['12/2/2023', '12/4/2023', '12/8/2023', '12/10/2023', '12/15/2023']})
 ```
-:::
 
-::: {.cell .code execution_count="4" colab="{\"base_uri\":\"https://localhost:8080/\",\"height\":206}" id="_83UN0kvMvhD" outputId="e0d7d8fe-7e14-420a-c13f-6091b8c4a759"}
-``` python
+
+```python
 def mark_plus1_type(row):
   if row['subscription_type'] != row['subscription_type']: # check for NaN
     parent_type = df[df['subscriber_id'] == row['is_plus_1_of']]['subscription_type'].iloc[0]
@@ -57,8 +31,9 @@ df['subscription_type'] = df.apply(mark_plus1_type, axis=1)
 df
 ```
 
-::: {.output .execute_result execution_count="4"}
-```{=html}
+
+
+
 
   <div id="df-cea17b39-6334-4570-bb48-8af118a8546e" class="colab-df-container">
     <div>
@@ -332,11 +307,8 @@ df
 </div>
     </div>
   </div>
-```
-:::
-:::
 
-::: {.cell .markdown id="yF0Ku1BtNVCB"}
-You can see now that the subscription types of the first and third rows
-reflect those of their parent subscribers.
-:::
+
+
+
+You can see now that the subscription types of the first and third rows reflect those of their parent subscribers.
