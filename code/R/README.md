@@ -14,4 +14,7 @@
 ## R tutorials
 * [Data cleaning and visualization in R: Part 1](./practice_cleaning_visualization_1.html) ([data](./fakedata.csv) for tutorial)
 * [Data cleaning and visualization in R: Part 2](./practice_cleaning_visualization_2.html) ([data](./fakedata_2.csv) for tutorial)
-* How to run Bayesian analysis ([slides](./bayesian_analysis_tutorial.pdf), [code](./bayesian_tutorial.Rmd), [data](./fakedata_bayesian.csv) for tutorial)
+* How to run Bayesian analysis, part 1 ([slides](./bayesian_analysis_tutorial.pdf), [code](./bayesian_tutorial.Rmd), [data](./fakedata_bayesian.csv) for tutorial)
+  * good for those who want to analyze acceptability judgment data 
+* [How to run Bayesian analysis, part 2](./bayesian_tutorial.html)
+  * good for those who are working with the categorical response variable
