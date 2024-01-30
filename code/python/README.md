@@ -12,4 +12,4 @@
 * [How to check for counterbalancing](./python_0011.md)
 * [How to mutate the dataframe to add item mean and sd](./python_0012.md)
 * [How to group data and check values by group](./python_0013.md)
-* [How to apply a function to each row without iterrows()](./python_0014.md)
+
