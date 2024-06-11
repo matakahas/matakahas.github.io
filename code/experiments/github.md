@@ -42,4 +42,17 @@ This happens when when both remote and local repositories have new commits since
 <img src="github5.png" alt="screenshot5" width="350"/>
 
 4. Edit the file to resolve conflicts between the conflicting branches. Remove the conflict markers once you've resolved the issues.
-5. Run `git merge --continue` to finish the merge.  
+5. Run `git merge --continue` to finish the merge.
+
+### Connecting local and remote repositories
+If you have created a remote repository and now want to connect it with one of your local repositories, you should `cd` to your local repository on Terminal, and input the following code:
+
+`git init`
+
+`git remote add origin https://github.com/username/repository.git` (change `username` and `repository`. Don't forget `.git` in the end!)
+
+`git branch -M main`
+
+`git push -u origin main`
+
+Also when you create a remote repo with an intention of linking it with a local repo, don't check the "Add a README file" option since that will cause a conflict when trying to push the content of local repo to remote repo (as local repo doesn't have the README).
