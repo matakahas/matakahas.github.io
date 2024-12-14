@@ -1,5 +1,5 @@
 <!--- <img align="left" src="my_pic.jpg" alt="welcome" width="300" hspace="15" vspace="15"/> --->
-My name is Maho Takahashi, and I have PhD in Linguistics at the **University of California, San Diego**. I am currently working as a Linguistic Engineer at **Meta Reality Labs**.
+My name is Maho Takahashi, and I have PhD in Linguistics and Computational Social Science from the **University of California, San Diego**. I am currently working as a Linguistic Engineer at **Meta Reality Labs**.
 
 I was a member of the [Experimental Syntax Lab](http://grammar.ucsd.edu/syntaxlab/) directed by Dr. Grant Goodall and the [Language and Development Lab](http://www.ladlab.com/) directed by Dr. David Barner.
 
